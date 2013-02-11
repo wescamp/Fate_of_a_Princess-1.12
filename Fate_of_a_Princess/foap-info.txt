@@ -3,6 +3,8 @@
 
 ---Informations---
 
+The portrait of Drake Lord: (doofus-01)
+
 The base portrait of Háwclyn: galtrid.png (Legend of Wesmere)
 
 The portraits of Orcish Mages: (Son of the Black Eye)
