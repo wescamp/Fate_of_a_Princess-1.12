@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fate_of_a_Princess-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-13 18:41-0500\n"
+"POT-Creation-Date: 2013-02-11 23:27+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 #. [campaign]: id=Fate_of_a_Princess
 #. [editor_group]: id=foap
 #. [scenario]: id=25_Fate_of_a_Princess
-#: ./Fate_of_a_Princess/_main.cfg:8 ./Fate_of_a_Princess/_main.cfg:189 ./Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:4
+#: ./Fate_of_a_Princess/_main.cfg:8 ./Fate_of_a_Princess/_main.cfg:192 ./Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:4
 msgid "Fate of a Princess"
 msgstr ""
 
@@ -138,27 +138,27 @@ msgid "Contributions - Images"
 msgstr ""
 
 #. [about]
-#: ./Fate_of_a_Princess/_main.cfg:117
+#: ./Fate_of_a_Princess/_main.cfg:120
 msgid "Contributions - WML"
 msgstr ""
 
 #. [about]
-#: ./Fate_of_a_Princess/_main.cfg:126
+#: ./Fate_of_a_Princess/_main.cfg:129
 msgid "Technical Adviser"
 msgstr ""
 
 #. [about]
-#: ./Fate_of_a_Princess/_main.cfg:132
+#: ./Fate_of_a_Princess/_main.cfg:135
 msgid "Forum Support and Feedback"
 msgstr ""
 
 #. [about]
-#: ./Fate_of_a_Princess/_main.cfg:144
+#: ./Fate_of_a_Princess/_main.cfg:147
 msgid "Art Work Support"
 msgstr ""
 
 #. [about]
-#: ./Fate_of_a_Princess/_main.cfg:150 ./Fate_of_a_Princess/_main.cfg:156
+#: ./Fate_of_a_Princess/_main.cfg:153 ./Fate_of_a_Princess/_main.cfg:159
 msgid "Special Thanks"
 msgstr ""
 
@@ -604,8 +604,8 @@ msgid "There are two routes we could take, my Lord, but there’s little to choo
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:118 ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:290
-msgid "Move both caravans to the top of the map"
+#: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:118
+msgid "Move both caravans to the top of the map at northwest"
 msgstr ""
 
 #. [unit]: type=Dwarvish Lord, id=Zholas
@@ -633,6 +633,11 @@ msgstr ""
 #. [message]: id=Baldres
 #: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:236
 msgid "Haha! What a stroke of luck! I just wish this sort of thing happened more often."
+msgstr ""
+
+#. [objective]: condition=win
+#: ./Fate_of_a_Princess/scenarios/03_Northern_Ways.cfg:290
+msgid "Move both caravans to the top of the map"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -2136,7 +2141,7 @@ msgid "Toffee…! Noooo…!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:945
+#: ./Fate_of_a_Princess/scenarios/10_Childhood.cfg:945 ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:405
 msgid "Countless summers I shall never see…"
 msgstr ""
 
@@ -2291,23 +2296,23 @@ msgstr ""
 msgid "Rhyss, please! I don’t want to fight you!"
 msgstr ""
 
-#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:405
+#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:415
 msgid "… Ha… ha… ha… This is not the end. More soldiers are coming in a few days… Gulder… for Gulder…"
 msgstr ""
 
-#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:413
+#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:423
 msgid "What does he mean?"
 msgstr ""
 
-#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:417
+#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:427
 msgid "I do not understand what happened to Rhyss. He was a kind man. We have been friends since we met at the final of the archery competition last year."
 msgstr ""
 
-#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:421
+#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:431
 msgid "We have to report this to Queen Eämeral immediately."
 msgstr ""
 
-#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:425
+#: ./Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:435
 msgid "Go, son of Elen-Garil. I will keep watch here."
 msgstr ""
 
