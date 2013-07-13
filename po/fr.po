@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fate_of_a_Princess 1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-03 23:42+0200\n"
+"POT-Creation-Date: 2013-07-13 11:23-0400\n"
 "PO-Revision-Date: 2012-10-14 15:44+0100\n"
 "Last-Translator: Pyrophorus <l.sebilleauATfree.fr>\n"
 "Language-Team: français <wesnoth@ml.free.fr>\n"
@@ -20,7 +20,7 @@ msgstr ""
 #. [campaign]: id=Fate_of_a_Princess
 #. [editor_group]: id=foap
 #. [scenario]: id=25_Fate_of_a_Princess
-#: Fate_of_a_Princess/_main.cfg:8 Fate_of_a_Princess/_main.cfg:192
+#: Fate_of_a_Princess/_main.cfg:8 Fate_of_a_Princess/_main.cfg:195
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:4
 msgid "Fate of a Princess"
 msgstr "Le Destin d'une Princesse"
@@ -197,7 +197,7 @@ msgid "Art Work Support"
 msgstr "Assistance aux graphismes"
 
 #. [about]
-#: Fate_of_a_Princess/_main.cfg:153 Fate_of_a_Princess/_main.cfg:159
+#: Fate_of_a_Princess/_main.cfg:156 Fate_of_a_Princess/_main.cfg:162
 msgid "Special Thanks"
 msgstr "Remerciements particuliers"
 
@@ -385,8 +385,8 @@ msgstr "Vaincre le chef ennemi"
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:232
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:210
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:260
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:726
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:262
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:728
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:231
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:350
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:206
@@ -401,8 +401,8 @@ msgstr "Mort de Baldres"
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:236
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:214
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:264
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:730
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:266
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:732
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:235
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:354
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:210
@@ -419,8 +419,8 @@ msgstr "Mort de Jil"
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:240
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:218
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:268
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:734
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:270
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:736
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:239
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:358
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:214
@@ -436,8 +436,8 @@ msgstr "Mort d'Ishlars"
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:244
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:230
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:276
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:742
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:278
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:744
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:248
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:367
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:222
@@ -755,8 +755,8 @@ msgstr "Faites traverser le Grand Fleuve aux deux chariots"
 
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:222
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:272
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:738
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:274
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:740
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:244
 #: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:363
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:218
@@ -860,7 +860,7 @@ msgstr ""
 #. [side]: type=Elvish Lieutenant, id=Hawclyn
 #. [side]: type=Elvish Lord, id=Zluld
 #. [side]: type=Elvish Royal, id=Eameral
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:65
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:64
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:48
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:84
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:230
@@ -876,12 +876,12 @@ msgid "Elves"
 msgstr "Elfes"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:90
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:89
 msgid "Ogres"
 msgstr "Ogres"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:140
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:139
 msgid ""
 "Keep alert. It only takes one patrol to bring the rest of Straker’s forces "
 "down on us."
@@ -890,7 +890,7 @@ msgstr ""
 "forces de Straker sur le dos."
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:144
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:143
 msgid ""
 "I think these elves and dwarves will be a bigger threat to us than any "
 "Wesnoth forces, sir!"
@@ -899,7 +899,7 @@ msgstr ""
 "nous que toutes les forces de Wesnoth, sire !"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:153
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:152
 msgid ""
 "Keep alert. It only takes one patrol to bring Straker’s whole army down on "
 "us."
@@ -908,7 +908,7 @@ msgstr ""
 "l'armée de Straker sur notre dos."
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:157
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:156
 msgid ""
 "I think these elves and dwarves will be a bigger threat to us than Straker, "
 "sir!"
@@ -917,7 +917,7 @@ msgstr ""
 "Straker, sire !"
 
 #. [message]: speaker=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:163
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:162
 msgid ""
 "There are two routes we could take, my Lord, but there’s little to choose "
 "between them."
@@ -926,7 +926,7 @@ msgstr ""
 "de dire laquelle."
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:167
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:166
 #, fuzzy
 msgid ""
 "By the way, the Dragonbreath Machine is almost ready, my Lord. May I test "
@@ -934,61 +934,61 @@ msgid ""
 msgstr "Le « Souffle du Dragon » est quasiment prêt, monseigneur."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:171
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:170
 #, fuzzy
 msgid "Oh, that’s its name today, is it? Alright, shoot it to the river."
 msgstr "Oh, c'est son nom aujourd'hui ?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:175
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:174
 #, fuzzy
 msgid "Yes, sir. Fire!"
 msgstr "Oui, monsieur ! Désolé !"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:212
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:211
 msgid "Oops...!"
 msgstr ""
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:231
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:233
 msgid "Uh-oh! Brush Fire!"
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:235
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:237
 msgid "Old fool! Now we must across the river... Quickly!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:256
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:722
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:258
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:724
 #, fuzzy
 msgid "Move both caravans to the top of the map between two trees"
 msgstr "Conduire les deux chariots jusqu'en haut de la carte"
 
 #. [unit]: type=Elvish Captain, id=Kalathriel
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:398
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:400
 msgid "Kalathriel"
 msgstr "Kalathriel"
 
 #. [unit]: type=Ogre, id=Urkark
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:603
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:605
 msgid "Urkark"
 msgstr "Urkark"
 
 #. [effect]: type=blade
 #. [object]: id=greenwood_blade
 #. [object]: id=greenwood_sword
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:641
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:781
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:643
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:783
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:739
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:760
 msgid "greenwood blade"
 msgstr "épée de la Forêt Verte"
 
 #. [object]: id=greenwood_blade
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:642
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:644
 msgid ""
 "This is an enchanted magical sword of the highest quality; elven in make, "
 "and bearing the crowned sigil of the royal elven family of the Greenwood."
@@ -997,7 +997,7 @@ msgstr ""
 "portant le sceau ailé de la famille royale de la Forêt verte."
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:661
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:663
 msgid ""
 "By the Primal Flames! This must be the legendary Greenwood Blade! If my "
 "memory serves, this belongs to the royal elven family of the Greenwood. I "
@@ -1010,7 +1010,7 @@ msgstr ""
 "plusieurs semaines de marche vers le Nord."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:665
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:667
 msgid ""
 "Haha! What a stroke of luck! I just wish this sort of thing happened more "
 "often."
@@ -1019,23 +1019,23 @@ msgstr ""
 "arrive plus souvent."
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:746
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:748
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:541
 msgid "Death of $foap_sword_picker.name"
 msgstr "Mort de $foap_sword_picker.name"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:823
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:825
 msgid "Elves! Watch out!"
 msgstr "Des Elfes ! Prenez garde !"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:841
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:843
 msgid "Goodness. Their women really are astonishingly beautiful, are they not?"
 msgstr "Bon sang. Leurs femmes sont d'une beauté ahurissante, n'est-ce pas ?"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:845
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:847
 msgid ""
 "Bah! There’s no meat on any elf I’ve ever seen. They’re all twig creatures!"
 msgstr ""
@@ -1043,27 +1043,27 @@ msgstr ""
 "des brindilles !"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:888
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:890
 msgid "Somebody burns our fields! Ogre mad!"
 msgstr ""
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:928
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:934
 msgid "It seems the areas on the fire are getting decreased..."
 msgstr ""
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:932
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:938
 msgid "I think we should keep moving north."
 msgstr "Je pense que nous devrions continuer vers le nord."
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:936
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:942
 msgid "Perhaps an orcish settlement might be an easier target."
 msgstr "Peut-être qu'un campement orc serait une cible plus facile."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:987
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:993
 #: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:659
 #: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:801
 msgid "We’ve spent too long fighting! It’s over."
@@ -1684,9 +1684,9 @@ msgstr "Mort-vivant"
 #. [side]: type=Naga Myrmidon, id=Milaxilis
 #. [side]: type=Water Serpent, id=Bata
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:199
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:83
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:129
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:156
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:82
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:128
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:155
 msgid "Snakes"
 msgstr "Serpents"
 
@@ -4718,7 +4718,7 @@ msgstr "Guerrier troll"
 #. [side]: type=Troll Warrior, id=Troll Warrior
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:76
 #: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:96
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:187
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:186
 #: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:94
 #: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:113
 msgid "Trolls"
@@ -4901,37 +4901,37 @@ msgstr ""
 "inquiétants."
 
 #. [unit]: type=Drake Fighter, id=Verle
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:63
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:62
 msgid "Verlé"
 msgstr "Verlé"
 
 #. [side]: type=Foap Hydra, id=Apakura
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:80
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:79
 msgid "Apakura"
 msgstr "Apakura"
 
 #. [side]: type=Foap Hydra, id=Jata
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:126
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:125
 msgid "Jata"
 msgstr "Jata"
 
 #. [side]: type=Naga Myrmidon, id=Milaxilis
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:153
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:152
 msgid "Milaxilis"
 msgstr "Milaxilis"
 
 #. [side]: type=Troll Shaman, id=Rok
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:180
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:179
 msgid "Rok"
 msgstr "Rok"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:227
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:226
 msgid "Move Háwclyn to the exit"
 msgstr "Conduire Háwclyn à la sortie"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:268
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:267
 msgid ""
 "This damp lair is tha’ shortest route tae Eisheim. Unfortunately there are "
 "monsters living here now. My brave friend tried to drive them out in weeks "
@@ -4944,7 +4944,7 @@ msgstr ""
 "les éviter."
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:272
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:271
 msgid ""
 "If we must fight, then so be it, but I would be glad to pass through "
 "peacefully. I must say, this place must become a torrent when the rains come."
@@ -4953,7 +4953,7 @@ msgstr ""
 "tranquillement. Cet endroit doit devenir un vrai torrent quand il pleut."
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:276
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:275
 msgid ""
 "Oh yes, snow-melt collects in this cavern. In spring the sound of the "
 "waterfalls can be heard two leagues away. Last winter, some nagas followed "
@@ -4966,30 +4966,30 @@ msgstr ""
 "mais les trolls ne sont pas du tout contents de partager leur grotte."
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:280
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:279
 msgid "We should hurry. We are running out of time to return home."
 msgstr "Nous devrions nous hâter. Nous n'aurons plus le temps de rentrer."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:319
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:318
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:929
 msgid "A chest of gold! That’s a stroke o’ fortune!"
 msgstr "Un coffre plein d'or ! C'est un vrai coup de chance !"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:354
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:353
 msgid "Gold! That’s a stroke o’ good luck!"
 msgstr "De l'or ! C'est un vrai coup de chance !"
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:394
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:485
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:393
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:484
 msgid "Crystal Bow"
 msgstr "Arc de cristal"
 
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:395
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:486
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:394
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:485
 msgid ""
 "Crystal Bows are extraordinary magical weapons made long ago by a dwarven "
 "stonecrafter, and given as gifts to the elves of the Silent Forest. The "
@@ -5004,11 +5004,9 @@ msgstr ""
 "passe avec le temps, mais tant qu'elle perdure, c'est un lourd handicap pour "
 "le combattant."
 
-#. [message]: speaker=unit
 #. [object]: id=bow-crystal
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:406
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:497
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:554
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:405
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:496
 msgid ""
 "This is a very heavy bow. A powerful archer could use it, but I, alas, "
 "cannot."
@@ -5017,8 +5015,8 @@ msgstr ""
 "hélas, pas moi."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:417
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:508
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:416
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:507
 msgid ""
 "Oh, that is a Crystal Bow! Those were a famous gift to the elves, made by my "
 "people many centuries ago! Shoko’s real father had one. He was Captain of "
@@ -5030,8 +5028,8 @@ msgstr ""
 "y a une inscription."
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:421
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:512
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:420
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:511
 msgid ""
 "We are finally able to have a daughter. We have named her Sioclya. Thanks be "
 "to Eloh.\n"
@@ -5042,8 +5040,8 @@ msgstr ""
 "Onzième jour de la nouvelle année, 212 AW. <i>Écrit par Hirandel</i>"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:427
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:518
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:426
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:517
 msgid ""
 "Anoint mae beard! That bow belonged tae Shoko’s real father! That is "
 "amazing! Shoko’s birth name was Sioclya, but in dwarf-runes that becomes "
@@ -5054,8 +5052,8 @@ msgstr ""
 "« Shoko », « jolie gemme ». Elle est jolie, n'est-ce pas ?"
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:431
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:522
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:430
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:521
 msgid ""
 "I have always thought of you as my real father, Turuk. I care not if that "
 "sounds foolish."
@@ -5064,19 +5062,19 @@ msgstr ""
 "stupide, je n'en ai rien à faire."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:435
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:526
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:434
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:525
 msgid "Bless ye, lass. Bless ye."
 msgstr "Sois bénie, ma fille. Sois bénie."
 
-#. [effect]: type=pierce
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:447
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:538
+#. [effect]: type=arcane
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:446
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:537
 msgid "crystal bow"
 msgstr "arc de cristal"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:585
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:580
 msgid ""
 "The magical rune on the encampment will change a unit’s alignment to "
 "<i>chaotic</i>."
@@ -5085,7 +5083,7 @@ msgstr ""
 "<i>chaotique</i>."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:590
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:585
 msgid ""
 "A chaos rune! Ye ken, I have heard that trolls are sometimes born as lawful "
 "creatures, fearing the night an’ unafraid tae move by day. Troll shamans use "
@@ -5096,7 +5094,7 @@ msgstr ""
 "chamans utilisent un rituel spécial pour rétablir leur caractère normal."
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:594
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:589
 msgid ""
 "I have heard that trolls are not actually born. One troll buds off another "
 "smaller troll, which then grows on its own."
@@ -5105,22 +5103,22 @@ msgstr ""
 "bourgeonne un petit troll qui finit par devenir indépendant."
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:598
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:593
 msgid "Then, there are no troll women? That’s extraordinary!"
 msgstr "Donc il n'y a pas de femelle troll ? C'est extraordinaire !"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:602
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:597
 msgid "I wonder if that magic rune might work on one o’ my followers?"
 msgstr "Je me demande si cette rune marcherait sur un de mes compagnons ?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:645
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:640
 msgid "Ancestors’ beards, it worked!"
 msgstr "Par la barbe de mes ancêtres, ça marche !"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:678
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:673
 msgid ""
 "Only innately magical races, such as trolls or drakes, can use these runes."
 msgstr ""
@@ -5128,38 +5126,38 @@ msgstr ""
 "peuvent utiliser ces runes."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:692
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:687
 msgid "Farewell, father… Now I will see Mama again…"
 msgstr "Adieu, mon père... Maintenant, je vais voir maman à nouveau..."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:696
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:691
 msgid "Shoko! This parting breaks my heart."
 msgstr "Shoko ! Cette séparation me brise le cœur."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:709
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:704
 msgid "<big>Graaa!</big>"
 msgstr "<big>Graaa !</big>"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:717
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:712
 msgid "Look! There is something behind him."
 msgstr "Regardez ! Il y a quelque chose derrière lui."
 
 #. [unit]: type=Dwarvish Fighter, id=Cholas
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:727
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:722
 msgid "Cholas"
 msgstr "Cholas"
 
 #. [message]: id=Cholas
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:747
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:742
 msgid "Phew! Thank you, Warden, thank you! I thought I’d ne’er get oot."
 msgstr ""
 "Pfou ! Merci Gardien, merci ! J'ai bien cru que je n'en sortirai jamais."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:751
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:746
 msgid ""
 "I didnae think I’d see you again, Cholas. I am proud of you! Follow me and "
 "fight again, an’ we’ll broach a cask later, tae celebrate your return!"
@@ -5169,12 +5167,12 @@ msgstr ""
 "retour !"
 
 #. [message]: id=Cholas
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:758
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:753
 msgid "My pleasure, sir!"
 msgstr "Avec plaisir, monsieur !"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:781
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:776
 msgid "Northwards! We cannae rest yet, there may be more monsters tae slay!"
 msgstr ""
 "Au nord ! On ne peut pas encore se reposer, il y a encore des monstres à "
@@ -5182,18 +5180,18 @@ msgstr ""
 
 #. [message]: speaker=unit
 #. [message]: type=Yeti
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:798
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:793
 #: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:358
 msgid "<big>GRAAA!</big>"
 msgstr "<big>GRAAA !</big>"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:806
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:801
 msgid "Keep moving, keep moving!"
 msgstr "Avancez, avancez !"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:826
+#: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:821
 msgid "Move on! We cannae tarry here! More monsters may come!"
 msgstr ""
 "Avancez ! On ne peut pas rester ici ! D'autres monstres pourraient venir !"
