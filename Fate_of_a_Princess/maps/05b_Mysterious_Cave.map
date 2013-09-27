@@ -1,11 +1,11 @@
 border_size=1
 usage=map
 
-Xu, Xu, Qxu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Qxu, Qxu, Qxu, Qxu, Xu, Rr^Es, Rr^Es, Rr, Rr, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu
-Xu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Xu, Rr, Rr, Rr, Qxu, Qxu, Qxu, Qxu, Rr, Rr, Rr, Rr^Es, Rr, Qxu, Qxu, Ql, Qxu, Ql, Ql, Ql, Ql, Ql, Ql
-Xu, Qxu, Uu^Vud, Qxu, Cud, Qxu, Cud, Qxu, Cud, Cud, Cud, Cud, Cud, Ur, Cud, Ur, Xu, Cud, Rr, Rr, Rr, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Rr, Rr, Rr, Rr, Qxu, Rr, Qxu, Ql^Bh/, Uu, Ql, Ql, Ql
+Xu, Xu, Qxu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Xu, Qxu, Qxu, Qxu, Qxu, Xu, Rr^Es, Rr^Es, Rr, Rr, Qxu, Qxu, Qxu, Qxu, Qxu, Uu, Ur, Uu, Qxu
+Xu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Xu, Rr, Rr, Rr, Qxu, Qxu, Qxu, Qxu, Rr, Rr, Rr, Rr^Es, Rr, Qxu, Qxu, Ql, Qxu, Ql, Ql, Uu, Ur, Qxu, Ql
+Xu, Qxu, Uu^Vud, Qxu, Cud, Qxu, Cud, Qxu, Cud, Cud, Cud, Cud, Cud, Ur, Cud, Ur, Xu, Cud, Rr, Rr, Rr, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Rr, Rr, Rr, Rr, Qxu, Rr, Qxu, Ql^Bh/, Ur, Ql, Ql, Ql
 Xu, Qxu, Qxu, Uu, Cud, Cud, Cud, Cud, Cud, Uu^Vud, Cud, Cud, Cud, Ur, Ur, Ur, Xu, Cud, Rr, Rr, Rr^Es, Rr, Rr, Rr, Rr, Qxu, Qxu, Qxu, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Ql, Qxu, Ql, Ql
-Xu, Qxu, Qxu, Cud, Cud, Cud, Cud, Cud, Qxu, Cud, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Xu, Rr, Qxu, Rr, Rr, Rr^Es, Rr, Rr, Rr, Qxu, Rr, Rr, Rr^Es, Rr, Cud, Cud, Cud, Rr, Rr^Es, Ql, Qxu, Qxu, Qxu
+Xu, Qxu, Qxu, Cud, Cud, Cud, Cud, Cud, Qxu, Cud, Qxu, Uu, Qxu, Qxu, Qxu, Qxu, Xu, Rr, Qxu, Rr, Rr, Rr^Es, Rr, Rr, Rr, Qxu, Rr, Rr, Rr^Es, Rr, Cud, Cud, Cud, Rr, Rr^Es, Ql, Qxu, Qxu, Qxu
 Xu, Qxu, Cud, Cud, Uu^Vud, Cud, Qxu, Qxu, Ql, Qxu, Ql, Qxu, Ql, Ql, Qxu, Xu, Uu, Xu, Qxu, Rr, Qxu, Rr, Rr, Rr^Vhcr, Rr, Rr, Rr, Rr, Rr, Rr, Cud, 2 Kud, Cud, Rr^Es, Rr^Es, Rr, Rr, Xu, Xu
 Xu, Qxu, Qxu, Cud, Cud, Cud, Qxu, Qxu, Ql, Ql, Ql, Ql, Ql, Ql, Qxu, Qxu, Uu, Xu, Rr, Qxu, Qxu, Rr, Rr, Rr, Rr^Es, Rr, Qxu, Qxu, Qxu, Rr, Rr, Cud, Rr, Rr, Rr, Qxu, Rr, Rr^Es, Xu
 Xu, Qxu, Cud, Cud, Cud, Cud, Qxu, Ql, Ql, Ql, Ql, Ql, Ql, Qxu, Uu, Uu, Uu, Xu, Rr^Es, Rr, Qxu, Qxu, Rr, Rr^Es, Rr^Es, Rr, Rr, Qxu, Rr, Rr, Rr, Rr, Rr, Rr, Qxu, Qxu, Rr, Rr^Es, Xu
