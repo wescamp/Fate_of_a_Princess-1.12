@@ -37,23 +37,23 @@ From: War of Chaos Era (by Madnessbane/mindrot)
     
 unit name:         base unit       Modifications(except coding for 1.5/1.6)  
 ---------------------------------------------------------------------------
-Royal Sorceress:    Disfuser       new weapon: staff (arcane), light focus             
-                                                               (ranged)
-                                   resistance: add                            
+Royal Sorceress:    Disfuser    new weapon: staff, paralyze , heavenly fire             
+                                          
+                                resistance: add                            
                                              blade=70,pierce=70,impact=60
-                                   remove weapon: elvish flame
-                                   hitpoints: 53->62
-                                   movement_type: casterfoot->elusivefoot
-                                   movement_cost: add forest=1
-                                   experience: 55->140 
-                                   images: color, staff, adding melee-image
-                                           (rebuild images)
-                                   race: The Elves->elf
-                                   usage: archer->mixed fighter
+                                remove weapon: elvish flame
+                                hitpoints: 53 --> 62
+                                movement_type: casterfoot --> elusivefoot
+                                movement_cost: add forest=1
+                                experience: 55->200 
+                                images: color, staff, adding melee-image
+                                        (rebuild images)
+                                race: The Elves --> elf
+                                usage: archer --> mixed fighter
 
-Young Sorceress:   Priestess       created the new unit file 
+Young Sorceress:   Priestess    created the new unit file 
 
-Child Sorceress:   Acolyte         created the new unit file
+Child Sorceress:   Acolyte      created the new unit file
 ---------------------------------------------------------------------------
 
 From: Era of Magic (by inferno8)
