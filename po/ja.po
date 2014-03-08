@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fate_of_a_Princess 1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:44+0100\n"
+"POT-Creation-Date: 2014-03-08 23:15+0100\n"
 "PO-Revision-Date: 2013-12-07 08:04-0800\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
@@ -92,6 +92,12 @@ msgstr ""
 
 #. [campaign]: id=Fate_of_a_Princess
 #: Fate_of_a_Princess/_main.cfg:26
+#, fuzzy
+msgid "1.11.11"
+msgstr "1.11.2"
+
+#. [campaign]: id=Fate_of_a_Princess
+#: Fate_of_a_Princess/_main.cfg:26
 msgid ""
 " or later.\n"
 " \n"
@@ -107,12 +113,6 @@ msgstr ""
 "\n"
 "キャンペーンの各様相において、ご意見ご感想などございましたら、ありがたくお受"
 "け致します。"
-
-#. [campaign]: id=Fate_of_a_Princess
-#: Fate_of_a_Princess/_main.cfg:26
-#, fuzzy
-msgid "1.11.8"
-msgstr "1.11.2"
 
 #. [about]
 #: Fate_of_a_Princess/_main.cfg:35
@@ -283,8 +283,8 @@ msgstr ""
 #. [side]: type=Knight, id=Oworraent
 #. [side]: type=Lieutenant, id=Linx
 #: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:120
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:88
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:110
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:89
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:111
 msgid "Haldric III"
 msgstr "ハルドリック３世"
 
@@ -300,12 +300,12 @@ msgid "Wild Horses"
 msgstr "野生の馬"
 
 #. [unit]: type=Red Mage, id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:197
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:182
 msgid "Ishlars"
 msgstr "イシュラーズ"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:212
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:197
 msgid ""
 "Almost finished! My finest, most powerful enchantment! A long distance fire "
 "beam. Heh, heh! I shall call it… ‘Ishlars’ Revenge’! Even those idiots at "
@@ -318,7 +318,7 @@ msgstr ""
 "うん。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:216
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:201
 msgid ""
 "Old fool, if you’d spent as much time working on it as you spend thinking of "
 "names for it, it would be finished by now. We’ve already caught some of "
@@ -330,12 +330,12 @@ msgstr ""
 "来てもおかしくねー。貴様以外は、全員出発の準備が出来ているんだ。"
 
 #. [unit]: type=Rogue Knight, id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:234
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:219
 msgid "Jil"
 msgstr "ジル"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:246
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:231
 msgid ""
 "My Lord, the king’s banner has been sighted. Straker’s scouts are hard on my "
 "heels! Our time has run out!"
@@ -344,7 +344,7 @@ msgstr ""
 "間切れです。"
 
 #. [message]: id=Oworraent
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:250
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:235
 msgid ""
 "Baron Baldres! I am to bring you before the king. Resist, and your life is "
 "forfeit! Yield!"
@@ -353,7 +353,7 @@ msgstr ""
 "け渡せ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:254
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:239
 #, fuzzy
 msgid ""
 "Get to it, Ishlars, or I’ll cut off your ears! The rest of you, to arms! And "
@@ -363,49 +363,49 @@ msgstr ""
 "か。皆の者、武器を取れ!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:258
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:243
 msgid ""
 "Once Jil attacks a horse, all wild animals will start moving in their turn. "
 "They may not attack your units, but you can attack them."
 msgstr ""
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:267
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:359
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:252
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:360
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:131
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:614
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:464
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:615
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:465
 msgid "Defeat the enemy leader"
 msgstr "敵のリーダーを倒す"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:271
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:211
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:264
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:730
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:210
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:345
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:182
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:363
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:213
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:256
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:213
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:265
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:731
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:211
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:346
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:183
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:364
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:214
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:245
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:244
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:245
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:358
 msgid "Death of Baldres"
 msgstr "バルドレスが没"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:275
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:215
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:268
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:734
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:214
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:349
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:186
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:367
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:217
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:260
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:217
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:269
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:735
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:215
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:350
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:187
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:368
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:218
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:249
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:248
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:249
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:233
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:362
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:208
@@ -413,45 +413,45 @@ msgid "Death of Jil"
 msgstr "ジルが没"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:279
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:219
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:272
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:738
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:218
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:353
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:190
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:371
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:221
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:264
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:221
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:273
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:739
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:219
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:354
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:191
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:372
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:222
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:253
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:252
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:253
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:237
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:366
 msgid "Death of Ishlars"
 msgstr "イシュラーズが没"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:283
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:231
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:280
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:746
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:227
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:362
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:198
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:379
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:230
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:268
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:233
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:281
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:747
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:228
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:363
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:199
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:380
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:231
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:262
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:261
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:262
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:241
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:370
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:216
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:510
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:712
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:143
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:178
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:630
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:182
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:480
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:290
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:179
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:631
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:183
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:481
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:291
 #: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:300
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:126
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:153
@@ -463,22 +463,22 @@ msgstr "ターンが尽きる"
 #. [unit]: type=Bandit, id=Dibryn
 #. [unit]: type=Ruffian, id=Dibryn
 #. [unit]: type=Thug, id=Dibryn
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:292
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:316
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:340
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:277
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:301
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:325
 msgid "Dibryn"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Mugwyn
 #. [unit]: type=Spearman, id=Mugwyn
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:304
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:328
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:352
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:289
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:313
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:337
 msgid "Mugwyn"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:440
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:425
 msgid ""
 "Hey, old lady! Wake up! The King’s men are here, now, and they’re attacking! "
 "Your magic would be very useful."
@@ -487,62 +487,62 @@ msgstr ""
 "た。アンタの魔法が役に立つ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:444
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:429
 msgid "Aaa? You mean we have to leave now? Just a moment…"
 msgstr "えっ?　と言う事は出発かい?　ちょっと待った!"
 
 #. [unit]: type=Mage, id=Wiowen
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:455
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:440
 msgid "Wiowen"
 msgstr ""
 
 #. [message]: id=Wiowen
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:467
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:452
 msgid "All right, I’m ready now. And I am <i>not</i> old!"
 msgstr "よし、いいわよ。　でも断っておくけど私は婆さんじゃないわ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:489
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:474
 msgid "This custom made armor gives an unit extra protection from attack."
 msgstr "このカスタムメイドの鎧は、装着者の防御力を向上させます。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:494
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:479
 msgid "Should I take this armor?"
 msgstr "私はこの鎧を装着するべきですか?"
 
 #. [option]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:496
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:481
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:980
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:472
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:473
 msgid "Yes!"
 msgstr "ハイ!"
 
 #. [object]: id=custom_armor
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:504
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:489
 msgid "custom armor"
 msgstr "カスタムの鎧"
 
 #. [object]: id=custom_armor
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:505
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:490
 msgid ""
 "This custom armor increases the wearer’s resistance to attack by 20 points."
 msgstr ""
 "イシュラーズが造ったこの鎧は、装着者の防御力を20ポイントアップさせます。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:526
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:511
 msgid "It fits on me."
 msgstr "私にピッタリだ。"
 
 #. [option]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:548
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:529
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:533
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:530
 msgid "No!"
 msgstr "イイエ!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:562
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:547
 msgid ""
 "… The spell would work, I know it! But nothing living could survive casting "
 "it. What can I do…?"
@@ -551,7 +551,7 @@ msgstr ""
 "んじゃ。何ができるかのう?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:569
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:554
 msgid ""
 "… Of course, enchant something non-living! It would have to be very strong, "
 "though. Something… massive… tough… made of iron or stone… Aha! The cannon! I "
@@ -561,24 +561,24 @@ msgstr ""
 "ダメだ。何かどっしりとした鉄か石... あー大筒!　大筒に魔法を掛ければ...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:573
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:558
 msgid "A breakthrough, O wise one?"
 msgstr "画期的な、賢明な物か?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:577
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:562
 msgid ""
 "Of a sort, my Lord. Unfortunately it will take several more days to fashion "
 "the enchantment I have in mind."
 msgstr "でも閣下、ワシの考えでは魔法を細工するのにあと幾日か必要じゃが...。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:581
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:566
 msgid "I don’t believe we even have three days remaining."
 msgstr "何言ってるのよ!　私たちにはもう三日も残っちゃいないわ!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:585
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:570
 msgid ""
 "… Ah. Oh well, I… suppose I should join the battle, then…\n"
 "Culverin! Come to me, boy!"
@@ -587,7 +587,7 @@ msgstr ""
 "カルバリン! ワシの忠実な馬よ、ここに来れ!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:630
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:615
 msgid ""
 "Renegade! I have delayed you enough! The General… will finish what I have "
 "star…ted this day."
@@ -596,7 +596,7 @@ msgstr ""
 "だろう。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:638
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:623
 msgid ""
 "I do not think so. Now hear me! We are leaving! Now! Ishlars! Bring that "
 "thing with you, if you must."
@@ -605,7 +605,7 @@ msgstr ""
 "持って出ろ!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:642
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:627
 msgid ""
 "But, my Lord! Without my laboratory it will take weeks to finish the "
 "enchantment!"
@@ -613,7 +613,7 @@ msgstr ""
 "いやでも閣下、研究室じゃないと終わらせるのに何週間もかかってしまいます。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:646
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:631
 msgid ""
 "If we tarry, we will never have a chance to use it. You have slowed us down "
 "for long enough, old mage. It’s time to go!"
@@ -622,7 +622,7 @@ msgstr ""
 "ちゃうのよ、年寄り魔術師さん。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:661
+#: Fate_of_a_Princess/scenarios/01_Time_to_Leave.cfg:646
 msgid "We’ve spent too long fighting! Now we really are caught!"
 msgstr "戦に時間を使いすぎた。もう俺様たちは、捕まってしまう。"
 
@@ -645,40 +645,40 @@ msgstr ""
 "妨げられるかの争いと成りました。"
 
 #. [unit]: type=Foap Caravan, id=Caravan 1
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:53
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:54
 msgid "Treasure Caravan"
 msgstr "財宝用馬車"
 
 #. [unit]: type=Foap Caravan, id=Caravan 2
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:64
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:65
 msgid "Supply Caravan"
 msgstr "供給用馬車"
 
 #. [unit]: type=Cannon, id=Cannon
 #. [unit_type]: id=Cannon, race=mechanical
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:75
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:76
 #: Fate_of_a_Princess/units/heroes/Cannon.cfg:5
 msgid "Cannon"
 msgstr "大筒"
 
 #. [side]: type=Grand Knight, id=Straker
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:91
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:92
 msgid "General Straker"
 msgstr "ストレイカー司令官"
 
 #. [side]: type=Lieutenant, id=Linx
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:113
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:114
 msgid "Colonel Linx"
 msgstr "リンクス大佐"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:136
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:86
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:137
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:87
 msgid "Beasts"
 msgstr "野獣"
 
 #. [message]: id=Straker
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:182
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:184
 msgid ""
 "You are under arrest! I am General Straker. Baron Baldres, it’s time for you "
 "to answer for your crimes! Don’t think you can escape into the northern "
@@ -689,14 +689,14 @@ msgstr ""
 "受けているぞ。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:186
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:188
 msgid "I’ve fought those border guards before. Their skulls are hard to split."
 msgstr ""
 "私は、前に北の国境軍と戦った事があるわ。彼らの頭蓋骨を粉砕するのは、簡単には"
 "行かないわ。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:190
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:192
 msgid ""
 "We’ll have to beat them to cross the Great River. We can do it. We must!"
 msgstr ""
@@ -704,7 +704,7 @@ msgstr ""
 "じゃ。いや、しなくては成らない。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:194
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:196
 msgid ""
 "Bah. The old general’s getting careless. I could fit an army through the "
 "openings he’s left me. Watch."
@@ -713,7 +713,7 @@ msgstr ""
 "く力量がある。見てろよ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:198
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:200
 msgid ""
 "To use the cannon’s long-range attack, right-click on an enemy within three "
 "hexes of the cannon, then select <b>Use long-range cannon attack against "
@@ -723,79 +723,79 @@ msgstr ""
 "右クリックして下さい。そして、メニューに従って下さい。"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:207
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:209
 msgid "Move both caravans over the Great River"
 msgstr "両方の馬車をグレート川の向こう岸へ移動"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:223
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:276
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:742
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:223
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:358
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:194
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:375
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:226
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:225
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:277
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:743
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:224
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:359
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:195
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:376
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:227
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:258
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:257
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:258
 msgid "Destruction of a caravan"
 msgstr "一つでも馬車の滅亡"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:227
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:229
 msgid "Destruction of the cannon"
 msgstr "大筒の滅亡"
 
 #. [objectives]
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:234
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:236
 msgid "Hint: Wild creatures may not attack you"
 msgstr ""
 
 #. [unit]: type=Dragoon, id=Convan
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:508
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:510
 msgid "Convan"
 msgstr ""
 
 #. [message]: id=Convan
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:552
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:554
 msgid "Sir, Baldres! May we join your troop?"
 msgstr "バルドレス閣下!　入隊を希望します。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:556
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:558
 msgid "Oh, good! Certainly!"
 msgstr "そりゃ良い!　承知だ!"
 
 #. [message]: id=Linx
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:560
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:562
 msgid "Ummm..."
 msgstr "うむむ...。"
 
 #. [message]: id=Linx
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:622
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:624
 msgid "Uh-Oh! A Monster Snake!"
 msgstr "おっと!　巨大オロチだ!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:647
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:649
 msgid "Aaack! I regret to report… I am no longer… fit for duty…"
 msgstr ""
 "あぁぁっ... 報告します... 私は、もうこれ以上... 任務を果たせません...。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:657
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:659
 msgid "Aaack! Baldres…! You … cannot … escape forever."
 msgstr "あぁぁっく... バルドレス... 永遠に逃げ切れるとは...　思うなよ...。"
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:671
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:673
 #: Fate_of_a_Princess/utils/FoaP-deaths.cfg:323
 msgid "Oh no! Not the cannon! My enchantments! Years of work, all lost!"
 msgstr ""
 "何てこった!　大筒は駄目じゃ。ワシの魔法が、何年もの努力が全部水の泡じゃ!"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:696
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:698
 msgid ""
 "Farewell, Wesnoth, and thank you for your generosity! Now to set out for our "
 "new home, wherever that may be. With this fortune, we could ride for a "
@@ -805,7 +805,7 @@ msgstr ""
 "ば、それが何処で有ろうと、我々は数千里でも馬に乗ろう。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:716
+#: Fate_of_a_Princess/scenarios/02_Escaping_from_Wesnoth.cfg:718
 msgid "We are too late! We’ve been cut off from the border."
 msgstr "我々は遅すぎた。境界は、遮られた...。"
 
@@ -833,14 +833,14 @@ msgstr ""
 #. [side]: type=Elvish Lieutenant, id=Hawclyn
 #. [side]: type=Elvish Lord, id=Zluld
 #. [side]: type=Elvish Royal, id=Eameral
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:66
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:67
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:50
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:100
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:247
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:303
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:97
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:37
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:34
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:35
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:63
 #: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:62
 #: Fate_of_a_Princess/scenarios/26_Epilogue.cfg:37
@@ -849,12 +849,12 @@ msgid "Elves"
 msgstr "エルフ族"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:91
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:92
 msgid "Ogres"
 msgstr "オーガ族"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:141
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:142
 msgid ""
 "Keep alert. It only takes one patrol to bring the rest of Straker’s forces "
 "down on us."
@@ -863,7 +863,7 @@ msgstr ""
 "来るぞ。"
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:145
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:146
 msgid ""
 "I think these elves and dwarves will be a bigger threat to us than any "
 "Wesnoth forces, sir!"
@@ -872,7 +872,7 @@ msgstr ""
 "思いますぞ。"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:154
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:155
 msgid ""
 "Keep alert. It only takes one patrol to bring Straker’s whole army down on "
 "us."
@@ -881,7 +881,7 @@ msgstr ""
 "るぞ。"
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:158
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:159
 msgid ""
 "I think these elves and dwarves will be a bigger threat to us than Straker, "
 "sir!"
@@ -889,14 +889,14 @@ msgstr ""
 "ワシゃ、ここではエルフやドワーフ達の方がストレイカーより危ないと思いますぞ。"
 
 #. [message]: speaker=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:164
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:165
 msgid ""
 "There are two routes we could take, my Lord, but there’s little to choose "
 "between them."
 msgstr "閣下、道が二つあるようね。大した選択では無さそうだけど...。"
 
 #. [message]: speaker=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:168
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:169
 msgid ""
 "By the way, the Dragonbreath Machine is almost ready, my Lord. May I test "
 "shooting it here?"
@@ -904,58 +904,58 @@ msgstr ""
 "ワシの竜の息マシンがもうすぐ完成しますぞ、閣下。テストしても良いかのう?"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:172
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:173
 msgid "Oh, that’s its name today, is it? Alright, shoot it to the river."
 msgstr "何だそりゃ?　今日の名前か?　ヨシ、川に向かって撃ってみろ。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:176
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:177
 msgid "Yes, sir. Fire!"
 msgstr "了解。放ーて!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:213
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:214
 msgid "Oops...!"
 msgstr "ありゃ...!"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:235
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:236
 msgid "Uh-oh! Brush Fire!"
 msgstr "なんと!　山火事よ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:239
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:240
 msgid "Old fool! Now we must across the river... Quickly!"
 msgstr "老いぼれめ!　川を渡るしか無くなった...。急げ!"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:260
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:726
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:261
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:727
 msgid "Move both caravans to the top of the map between two trees"
 msgstr "両方の馬車をマップの上端 (二本の木の間) へ移動"
 
 #. [unit]: type=Elvish Captain, id=Kalathriel
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:402
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:403
 msgid "Kalathriel"
 msgstr ""
 
 #. [unit]: type=Ogre, id=Urkark
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:607
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:608
 msgid "Urkark"
 msgstr "ウアーカーク"
 
 #. [effect]: type=blade
 #. [object]: id=greenwood_blade
 #. [object]: id=greenwood_sword
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:645
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:785
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:705
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:726
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:646
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:786
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:696
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:717
 msgid "greenwood blade"
 msgstr "グリーンウッド剣"
 
 #. [object]: id=greenwood_blade
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:646
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:647
 msgid ""
 "This is an enchanted magical sword of the highest quality; elven in make, "
 "and bearing the crowned sigil of the royal elven family of the Greenwood."
@@ -964,7 +964,7 @@ msgstr ""
 "代々受け継がれて来た賜物です。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:665
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:666
 msgid ""
 "By the Primal Flames! This must be the legendary Greenwood Blade! If my "
 "memory serves, this belongs to the royal elven family of the Greenwood. I "
@@ -977,30 +977,30 @@ msgstr ""
 "馬でも何週間も掛かるはずじゃが...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:669
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:670
 msgid ""
 "Haha! What a stroke of luck! I just wish this sort of thing happened more "
 "often."
 msgstr "ハッハッ!　付いてるぜ!　もっとこんなことが起こると良いけどな。"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:750
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:751
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:541
 msgid "Death of $foap_sword_picker.name"
 msgstr "$foap_sword_picker.nameが没"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:827
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:828
 msgid "Elves! Watch out!"
 msgstr "エルフだ!　気を付けなくては。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:845
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:846
 msgid "Goodness. Their women really are astonishingly beautiful, are they not?"
 msgstr "オイオイ、奴らの女たちは、驚くほど綺麗だぜ!　そう思わないか?"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:849
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:850
 msgid ""
 "Bah! There’s no meat on any elf I’ve ever seen. They’re all twig creatures!"
 msgstr ""
@@ -1008,29 +1008,29 @@ msgstr ""
 "今は戦でしょ。イクサ!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:892
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:893
 msgid "Somebody burns our fields! Ogre mad!"
 msgstr "誰かが我々の領地を燃やした!　オーガ怒った!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:936
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:937
 msgid "It seems the areas on the fire are getting decreased..."
 msgstr "山火事も治まって来た様じゃ...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:940
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:941
 msgid "I think we should keep moving north."
 msgstr "ヨシ!　北へ向かい続けよう。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:944
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:945
 msgid "Perhaps an orcish settlement might be an easier target."
 msgstr "オークの住居がきっと占領しやすそうね。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:995
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:624
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:794
+#: Fate_of_a_Princess/scenarios/03_Traveling_North.cfg:996
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:625
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:795
 msgid "We’ve spent too long fighting! It’s over."
 msgstr "戦に時間を使いすぎた。もう終わりだ。"
 
@@ -1051,24 +1051,24 @@ msgstr ""
 "る事を認識するのでした。"
 
 #. [side]: type=Foap Silver Unicorn, id=Takel
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:52
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:53
 msgid "Unicorns"
 msgstr "ユニコーン"
 
 #. [side]: type=Foap Silver Unicorn, id=Takel
 #. [unit]: type=Foap Silver Unicorn, id=Takel
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:55
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:261
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:56
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:262
 msgid "Täkel"
 msgstr "ティーケル"
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:72
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:73
 msgid "Monsters"
 msgstr "怪物族"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:180
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:181
 msgid ""
 "Awaken, you sluggardly hangers-on. Food is running low; we must press on if "
 "we are to find a new place to live."
@@ -1077,7 +1077,7 @@ msgstr ""
 "らん。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:184
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:185
 msgid ""
 "I heard all manner of strange noises in the night. Splashing, chittering, "
 "distant shrieks. Who knows what monsters live out here?"
@@ -1086,7 +1086,7 @@ msgstr ""
 "の荒れ地にどんな怪物が住んでるにかしら。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:188
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:189
 msgid ""
 "We may be far enough from Wesnoth to be safe from Straker’s patrols, but I "
 "fear some other danger will present itself soon enough."
@@ -1095,12 +1095,12 @@ msgstr ""
 "ぐに別の危機にさらされるとワシは思う。"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:206
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:207
 msgid "Find the enemy leader"
 msgstr "敵のリーダーを見つける"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:308
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:309
 msgid ""
 "Ah! A silver horse, with a horn on its head. Now, that nag that would fetch "
 "me a pretty penny!"
@@ -1108,7 +1108,7 @@ msgstr ""
 "ヘー!　銀の馬よ。おまけに頭に角が生えてるわ。捕まえて来たら高く売れるかしら？"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:312
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:313
 msgid ""
 "That is no horse. That is a unicorn. Be wary, Jil, they’re deadly, and not "
 "as easy to trap as you might think."
@@ -1117,7 +1117,7 @@ msgstr ""
 "公が思ってるように簡単には捕まらんぞ。"
 
 #. [message]: id=Takel
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:316
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:317
 msgid ""
 "Humans?! Soiling my land, and carrying the Greenwood Blade back to the "
 "elves? That cannot be permitted. Surrender it now, or face my wrath!"
@@ -1126,7 +1126,7 @@ msgstr ""
 "許されん!　今すぐ引き渡せ!　それとも私の怒りを食らうか？"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:320
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:321
 msgid ""
 "The sword was unguarded, and I am interested in exotic weapons. Tell me, "
 "pray: why do you think your claim to it is stronger than ours?"
@@ -1135,17 +1135,17 @@ msgstr ""
 "の所有権の主張と我々と、どっちが変か言ってみろ！"
 
 #. [message]: id=Takel
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:324
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:325
 msgid "(<i>Snort!</i>) Might is on my side!"
 msgstr "力量は、私側だ!"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:341
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:342
 msgid "Attack Täkel"
 msgstr "ティーケルを攻撃"
 
 #. [message]: id=Takel
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:472
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:473
 msgid ""
 "Do not come near me! Zluld took my dear Celadë from me, so he can live "
 "without his precious sword! Mark my words, I will not let you return it to "
@@ -1156,7 +1156,7 @@ msgstr ""
 "ぞ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:483
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:484
 msgid ""
 "Curious. Fortunately for him, I never intended to return this exquisite "
 "blade. Not even for quite a large sack of gold."
@@ -1165,7 +1165,7 @@ msgstr ""
 "するつもりは毛頭ない。たとえ金貨がタップリ入った大きな袋と交換でもな。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:487
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:488
 msgid ""
 "Legend has it that unicorns sometimes fall in love with maidens. I never "
 "knew whether to believe that, before today. Perhaps you could trap one, as "
@@ -1176,18 +1176,18 @@ msgstr ""
 "女を手なずけて、うまく使って...。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:491
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:492
 msgid "Ha ha! Maybe I could catch one. I’d just need a girl for the bait!"
 msgstr ""
 "そーね、多分出来そうね。エサに使う乙女が必要だけどね。大分前なら私でも...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:495
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:496
 msgid "All right! Let us continue northwards, if we are to find our paradise."
 msgstr "ヨッシャ!　我々の楽園を探しにもっと北に向かうぞ!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:507
+#: Fate_of_a_Princess/scenarios/03b_A_Jealous_Beast.cfg:508
 msgid "Righteous Fire will be ready soon, my Lord."
 msgstr "ライティオウス、ファイヤーがもうすぐ出来ますぞ、閣下。"
 
@@ -1211,42 +1211,42 @@ msgstr ""
 "する機会を増やしたのでした。"
 
 #. [side]: type=Dwarvish Lord, id=Zholas
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:81
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:82
 msgid "Dwarves"
 msgstr "ドワーフ族"
 
 #. [side]: type=Dwarvish Lord, id=Zholas
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:87
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:88
 msgid "Zholas"
 msgstr "ゾラス"
 
 #. [side]: type=Gryphon, id=Korro
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:114
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:115
 msgid "Gryphons"
 msgstr "グリフォン族"
 
 #. [side]: type=Gryphon, id=Korro
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:117
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:118
 msgid "Korro"
 msgstr ""
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:135
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:136
 msgid "Elf"
 msgstr "エルフ"
 
 #. [unit]: type=Elvish Druid, id=Fioniel
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:140
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:141
 msgid "Fioniel"
 msgstr "フィオニエル"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:161
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:162
 msgid "Alright, We can head northwards again."
 msgstr "ヨシ、北へ向かうぞ。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:165
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:166
 msgid ""
 "By my reckoning, sir, we are now far enough from Wesnoth to start finding "
 "bigger settlements – ones worth our attention."
@@ -1256,27 +1256,27 @@ msgstr ""
 "し...。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:169
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:170
 msgid "Good, because my mace arm is itching again."
 msgstr "良いわね。利き手が又かゆくなって来たとこなのよ。"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:178
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:179
 msgid "Move Baldres onto the sign"
 msgstr "バルドレスをサインへ移動"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:287
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:288
 msgid "Hey! There’s something there. Pick up and read it for me."
 msgstr "オイ!　何かここに有るぞ。誰か拾って読んでくれ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:312
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:313
 msgid "What is that? What does it say?"
 msgstr "それは何だ?　なんて書いてある？"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:316
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:317
 msgid ""
 "The Journal of Gulcyn\n"
 "25th day, ninth month, 199YW\n"
@@ -1294,7 +1294,7 @@ msgstr ""
 "を必要とする時が来ると感じております。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:323
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:324
 msgid ""
 "Hmmm. Gulcyn is the grandson of one of Haldric’s tame mages on the High "
 "Council. He is a dangerous wizard, my Lord, despite his youth."
@@ -1303,21 +1303,21 @@ msgstr ""
 "じゃ!　彼は若いが危険じゃよ。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:327
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:328
 msgid ""
 "I see. Keep the diary, then – we might find other useful information in it "
 "later."
 msgstr "そうか、それは取りあえず持っておけ。何か後で役に立つかもしれん。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:394
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:457
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:395
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:458
 msgid "Oooh! Now, she is beautiful. I want her brought to me."
 msgstr "オオッ!　オイ、見ろ!　いい女だ。あの女を俺様のものにする。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:398
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:461
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:399
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:462
 msgid ""
 "My Lord! Please! Finding a city to take over is more important than chasing "
 "her!"
@@ -1326,31 +1326,31 @@ msgstr ""
 "り重要でしょ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:402
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:465
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:403
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:466
 msgid "Bah, the city is a matter for later. She is here now!"
 msgstr "何を言う!　町は後でも占領できるが、あの女は今ここに居るんだ。"
 
 #. [message]: id=Fioniel
 #. [message]: id=Melinde
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:406
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:469
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:407
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:470
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:751
 msgid "Eeek!"
 msgstr "キャー!"
 
 #. [message]: id=Zholas
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:522
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:523
 msgid "Who scares my betrothed?"
 msgstr "俺の婚約者を脅かしたのは、何処のどいつだ!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:526
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:527
 msgid "Your betrothed? Ha! She will be mine from today!"
 msgstr "お前の婚約者だと?　笑わせるぜ!　今日からあの女は俺様のものにする!"
 
 #. [message]: speaker=Zholas
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:530
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:531
 msgid ""
 "You will not take her from me! I will kill you all! Fioniel, hide in the "
 "forest while I fight these bandits."
@@ -1359,12 +1359,12 @@ msgstr ""
 "オニエル、俺が盗賊共と戦っている間、しばらく森へ隠れて居なさい。"
 
 #. [message]: id=Fioniel
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:534
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:535
 msgid "Please be careful, my love."
 msgstr "気を付けてね、ゾラス。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:583
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:584
 msgid ""
 "… Aaack! … Woe is me! … The wedding would have been next week, but at least "
 "my Fioniel is safe in the woods…"
@@ -1373,14 +1373,14 @@ msgstr ""
 "なので安全だ...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:591
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:592
 msgid ""
 "All right! After her! I want scouts, beaters, fast horsemen along the trails "
 "–"
 msgstr "ヨシ!　物見に勢子と早馬、あの女を追いかけるぞー。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:595
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:596
 msgid ""
 "My Lord! An elf? In deep forest? We’ll never find her, and we can’t afford "
 "to waste time searching!"
@@ -1389,7 +1389,7 @@ msgstr ""
 "よ!"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:599
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:600
 msgid ""
 "Trooper Jil is right, sir. When we find a city to claim, we’ll face a big "
 "battle. It would be wise for us not to waste resources. We are starting to "
@@ -1399,12 +1399,12 @@ msgstr ""
 "ろう。余分な戦は避けた方が賢明じゃと思うがのう。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:603
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:604
 msgid "Well, I– Oh, damn it! All right, all right! She was beautiful, though…"
 msgstr "チィッ!　馬鹿野郎!　分かった、分かった。いい女だったけどなー。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:607
+#: Fate_of_a_Princess/scenarios/04_A_Man_And_an_Elf.cfg:608
 msgid "Thank you, my Lord. Troops, fall in! Guards, to the wagons! Northwards!"
 msgstr "良かったわ、閣下。全体整列!　武器を確認して北へ向かうわよ!"
 
@@ -1429,40 +1429,40 @@ msgstr ""
 #. [side]: type=Direwolf Rider, id=Hudash
 #. [side]: type=Goblin Pillager, id=Pronk
 #. [side]: type=Goblin Pillager, id=Prourk
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:92
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:119
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:93
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:120
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:111
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:138
 msgid "Goblins"
 msgstr "ゴブリン族"
 
 #. [side]: type=Direwolf Rider, id=Gort
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:95
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:96
 msgid "Gort"
 msgstr ""
 
 #. [side]: type=Direwolf Rider, id=Hudash
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:122
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:123
 msgid "Hudash"
 msgstr ""
 
 #. [side]: type=Direwolf, id=Kuppi
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:136
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:137
 msgid "Wolves"
 msgstr "オオカミ族"
 
 #. [side]: type=Direwolf, id=Kuppi
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:139
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:140
 msgid "Kuppi"
 msgstr ""
 
 #. [side]
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:167
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:168
 msgid "Saurian"
 msgstr "トカゲ族"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:175
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:176
 msgid ""
 "We are probably getting close to the orcish territories. We’ll likely see "
 "goblins first; they tend to get pushed out to the edges."
@@ -1471,12 +1471,12 @@ msgstr ""
 "住み着いておる。"
 
 #. [unit]: id=Slixxik, type=Saurian Augur
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:181
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:182
 msgid "Slixxik"
 msgstr "スリックスクシック"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:192
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:193
 msgid ""
 "Tsss. Do not go north, humanss, do not! Many evil thingss will happen! Fire "
 "and blood! Ruin and tragedy! Fear and evil! I am Augur of the Ssaurians; we "
@@ -1486,7 +1486,7 @@ msgstr ""
 "であろう。危険なだけでは無い...　何か恐ろしい事ヤ...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:196
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:197
 msgid ""
 "I do not believe these superstitions. Seeing the future? Peh! We will "
 "continue northwards."
@@ -1495,68 +1495,68 @@ msgstr ""
 "く必要は無い。北へ向かうぞ!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:200
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:201
 msgid "Slixxik will not attack as long as he is not disturbed."
 msgstr "スリックスクシックは、邪魔しない限り攻撃して来ません。"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:209
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:240
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:210
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:241
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:498
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:696
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:270
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:153
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:123
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:267
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:300
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:271
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:154
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:124
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:268
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:295
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:206
 msgid "Defeat all enemy leaders"
 msgstr "全ての敵のリーダーを倒す"
 
 #. [unit]: type=Goblin Impaler, id=Vragar
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:265
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:266
 msgid "Vragar"
 msgstr ""
 
 #. [message]: id=which_way, speaker=narrator
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:338
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:339
 msgid "You may choose the next action:"
 msgstr "次のアクションを選んで下さい。"
 
 #. [option]: id=which_way, speaker=narrator
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:341
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:342
 msgid "Enter the caves."
 msgstr "洞窟に入る"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:345
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:346
 msgid "Baldres gave the order to enter the caves."
 msgstr "バルドレスは、洞窟に入る命令を下しました。"
 
 #. [option]: id=which_way, speaker=narrator
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:366
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:367
 msgid "Remain in the open"
 msgstr "現在のシナリオに留まります。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:370
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:371
 msgid "Stay in the open!"
 msgstr "分かった、ここに留まる。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:389
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:390
 msgid "You cannot safely enter the caves without Slixxik to act as a guide."
 msgstr ""
 "洞窟に入るにはガイドが必要です。スリックスクシックをチーム内に入れる事が要求"
 "されます。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:396
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:397
 msgid "The entrance is sealed fast; you cannot open it."
 msgstr "入り口が閉じている間は、洞窟には入れません。"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:416
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:417
 msgid ""
 "Heeed me, humanss! If you go on into the north landss, ssomething terrible "
 "will occur! Death and war! Fear and murder! Fell creatures sstalking the "
@@ -1566,12 +1566,12 @@ msgstr ""
 "こるんヤ!　戦争だけじゃ無い、何かひどい事...　ワテの本に書いてあるんヤ!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:453
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:454
 msgid "URRK! … HUMANS! RAISE… the… alarm! Hu…mans…! <small>Hu…man…</small>"
 msgstr "あああ!　...人間だー。人間たちが領土内に...。"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:469
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:470
 msgid ""
 "Oh, no! Now it is too late! The goblins hass recognized the humanss! "
 "Ancesstorss, what should I do now?? Help the doomed humanss…? Will that "
@@ -1581,14 +1581,14 @@ msgstr ""
 "助けるしか無さそうヤ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:499
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:500
 #: Fate_of_a_Princess/scenarios/05b_Mysterious_Cave.cfg:1120
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:703
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:704
 msgid "Tsss-URK!! … Mark my words… the Fate Spiritss are moving… Doom awakess–"
 msgstr "ツァァァッ...　ワテの言葉を注視しろ... 破滅の神が動き出すぞ..."
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:511
+#: Fate_of_a_Princess/scenarios/05_In_the_Wilds.cfg:512
 msgid ""
 "Hah! It seems there is a city that we can capture, and not far from here at "
 "that…"
@@ -1848,18 +1848,18 @@ msgstr ""
 
 #. [side]
 #. [side]: type=Saurian Flanker, id=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:65
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:66
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:345
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:58
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:59
 msgid "Saurians"
 msgstr "トカゲ族"
 
 #. [side]: type=Saurian Flanker, id=Xizzyx
 #. [unit]: type=Saurian Flanker, id=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:68
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:69
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:494
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:57
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:497
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:58
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:506
 msgid "Xizzyx"
 msgstr "クシッズズィックス"
 
@@ -1870,33 +1870,33 @@ msgstr "クシッズズィックス"
 #. [side]: type=Orcish Warlord, id=Gragaar the Mighty
 #. [side]: type=Orcish Warlord, id=Vrodash
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:89
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:155
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:187
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:90
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:156
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:188
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:117
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:146
 #: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:83
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:336
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:348
 msgid "Orcs"
 msgstr "オーク族"
 
 #. [side]: type=Orcish Ruler, id=Raknaglash
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:91
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:92
 msgid "Raknaglash"
 msgstr ""
 
 #. [side]: type=Orcish Slurbow, id=Harik Whitefang
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:157
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:158
 msgid "Harik Whitefang"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Gragaar the Mighty
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:189
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:190
 msgid "Gragaar the Mighty"
 msgstr ""
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:219
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:220
 msgid ""
 "Finally, a chance at a city of my own, and no meddling monarch to bow to. "
 "These poor primitives will not trouble us! To arms! My– Our city lies before "
@@ -1906,17 +1906,17 @@ msgstr ""
 "を取れ!　我々の町は目の前に在る！"
 
 #. [message]: speaker=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:223
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:224
 msgid "Time to crack some orc-heads!"
 msgstr "オークたちの頭をかち割る時が来たわ!"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:227
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:228
 msgid "Poor foolss, doom follows you sstill."
 msgstr "卑しい愚か者、破滅の運命がまだ付きまとってるワイ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:231
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:232
 msgid ""
 "The cannon equips some bombs on this level. Each bomb is thrown to an enemy "
 "right after a melee attack is received. Using it before the 7th turn is "
@@ -1926,7 +1926,7 @@ msgstr ""
 "た直後に放たれます。7ターンまでに使うのが好ましいでしょう。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:336
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:337
 msgid ""
 "This may be our last battle, Jil. Supplies are running very low. What food "
 "will we find in the city?"
@@ -1935,7 +1935,7 @@ msgstr ""
 "がある？"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:340
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:341
 msgid ""
 "My Lord, orcs will eat anything but troll. I wouldn’t touch any supplies "
 "inside that city until we know where they are from."
@@ -1944,7 +1944,7 @@ msgstr ""
 "るまで手を付けないつもりよ。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:347
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:348
 msgid ""
 "This is a harder battle than I expected. I’ve never known these savages to "
 "be such determined fighters."
@@ -1953,7 +1953,7 @@ msgstr ""
 "とは想像外だ。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:359
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:360
 msgid ""
 "My Lord! Ishlars’ Doom is now fully completed! It has not been tested, but "
 "may I try it? I think we can give the orc leader a jolt he won’t forget."
@@ -1962,50 +1962,50 @@ msgstr ""
 "みてもよろしいかのう?　オークのカシラに忘れられんほどの驚きを与えると思うが。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:363
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:364
 msgid ""
 "Very well. Having dragged that cannon for eight score leagues and ten… Go "
 "ahead."
 msgstr "でかしたぞ。大筒をわざわざ長い距離ダラダラと引きずって来たんだ。やれ！"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:367
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:368
 msgid "Fire!"
 msgstr "放ーて!"
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:404
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:405
 msgid "30"
 msgstr "30"
 
 #. [message]: id=Raknaglash
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:416
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:417
 msgid "Gwah! What devilry is this?"
 msgstr "グワッ!　何の魔術だ?"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:420
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:421
 msgid "That is… satisfactory, Ishlars. Fire it again."
 msgstr "な、何と...　申し分ないぞ、イシュラーズ。もう一発放て。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:424
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:425
 msgid "Yes, my Lord! Fire!"
 msgstr "ハイ、閣下。放ーて!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:544
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:545
 msgid "Oh dear, a setback. Perhaps the weapon’s name was somehow at fault?"
 msgstr "何てこった、全くの挫折だ。武器の名前は、失敗か何かか?"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:548
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:549
 msgid ""
 "Please forgive me, my Lord. I did think the cannon would be strong enough!"
 msgstr "ありゃ、閣下お許しを...　大筒には十分な耐久性が無かったようで...。"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:552
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:553
 msgid ""
 "Ishlars, old friend. That… provocation will have put the orcs into a slaying "
 "frenzy. Now we will not be able to retreat. I promise, if we lose this day "
@@ -2018,7 +2018,7 @@ msgstr ""
 "ると貴様にとって刺激的だろうよ。"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:573
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:574
 msgid ""
 "Tcchht! Heard ssounds of battle! Ah, humanss! If you are fighting orcss, let "
 "me join in!"
@@ -2027,7 +2027,7 @@ msgstr ""
 "なら助太刀するデ!"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:577
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:578
 msgid ""
 "…\n"
 "\n"
@@ -2038,13 +2038,13 @@ msgstr ""
 "傭兵のトカゲ達だと?　オークと戦いたいと?　いいタイミングだ。承知!"
 
 #. [message]: id=Slixxik
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:671
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:672
 msgid "Thankss for helping! Perhapss you sslow the doom a little…"
 msgstr ""
 "助太刀に礼を言う。たぶん御主は、破滅の運命を少し遅らせるに違いない...。"
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:675
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:676
 msgid ""
 "…\n"
 "Orcs’ doom iss speeded up! That is good, yess?"
@@ -2053,7 +2053,7 @@ msgstr ""
 "オークの破滅は早まったやろ!　良い事ヤ、そやろ?"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:713
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:714
 msgid ""
 "Aaargh! Curse you, humans! Other orcs will come! We will take this place "
 "back!"
@@ -2062,12 +2062,12 @@ msgstr ""
 "すに違いない!"
 
 #. [message]: id=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:721
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:722
 msgid "We’ll be ready and waiting, believe me."
 msgstr "いつでも来やがれ、待ってるぜ。"
 
 #. [message]: id=Jil
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:725
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:726
 msgid ""
 "Phew! We can rest at last! And sleep in a bed again… under a roof!\n"
 "… Ahhh!"
@@ -2076,7 +2076,7 @@ msgstr ""
 "...　あーあっと!"
 
 #. [message]: speaker=Baldres
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:745
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:746
 msgid ""
 "Oh, Ishlars, I want a case for that beautiful sword we found. See to it, "
 "will you? I think I’d like it on display in my chambers…"
@@ -2085,7 +2085,7 @@ msgstr ""
 "い剣を我々の家宝として俺様の部屋に飾りたい。"
 
 #. [message]: id=Ishlars
-#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:749
+#: Fate_of_a_Princess/scenarios/06_Capturing_Dorest.cfg:750
 msgid "Yes, ‘sir’!"
 msgstr "分かりました!"
 
@@ -2207,7 +2207,7 @@ msgstr ""
 #. [message]: id=Ishlars
 #. [message]: speaker=Turuk
 #: Fate_of_a_Princess/scenarios/07_Forbidden_Ambition.cfg:591
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:219
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:220
 msgid "Here they come!"
 msgstr "来たぞ!"
 
@@ -2267,8 +2267,8 @@ msgstr "エルヴァナディオン"
 #. [side]: type=Elvish Lord, id=Zluld
 #. [unit]: type=Elvish Lord, id=Zluld
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:250
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:46
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:352
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:47
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:347
 msgid "Zluld"
 msgstr "ズラルド"
 
@@ -2281,7 +2281,7 @@ msgstr "エレンーガリル"
 
 #. [objective]: condition=win
 #: Fate_of_a_Princess/scenarios/08_Battle_of_Dorest.cfg:354
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:85
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:86
 msgid "Survive"
 msgstr "生き残る"
 
@@ -2530,7 +2530,7 @@ msgstr ""
 #. [side]: type=Grand Marshal, id=Dessen
 #. [unit]: type=Lancer, id=Dessen
 #: Fate_of_a_Princess/scenarios/09_Common_Enemy.cfg:45
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:185
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:197
 msgid "Dessen"
 msgstr "デッセン"
 
@@ -2966,7 +2966,7 @@ msgstr "アレー!"
 #. [unit]: type=Elvish Royal, id=Eameral
 #. [unit]: type=Elvish Shaman, id=Eameral
 #: Fate_of_a_Princess/scenarios/10_Childhood.cfg:479
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:37
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:38
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:66
 #: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:65
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:65
@@ -3203,19 +3203,19 @@ msgstr "リッス"
 #. [side]: type=Grand Marshal, id=Dessen
 #. [side]: type=Master Bowman, id=Niallas
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:77
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:213
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:182
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:290
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:208
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:194
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:302
 msgid "Humans"
 msgstr "人間"
 
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:135
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:170
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:618
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:170
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:468
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:274
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:171
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:619
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:171
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:469
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:275
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:106
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:133
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:160
@@ -3225,11 +3225,11 @@ msgstr "ハァウクリンが没"
 
 #. [objective]: condition=lose
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:139
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:174
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:622
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:174
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:472
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:278
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:175
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:623
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:175
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:473
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:279
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:110
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:137
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:164
@@ -3263,8 +3263,8 @@ msgstr ""
 #. [message]: id=Takel
 #. [message]: id=Ukyle
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:262
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:202
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:544
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:203
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:545
 #: Fate_of_a_Princess/scenarios/25_Fate_of_a_Princess.cfg:327
 msgid "…"
 msgstr "..."
@@ -3303,14 +3303,14 @@ msgstr "この神聖なるエルフの水は、けが人を完全に治癒しま
 
 #. [message]: speaker=unit
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:323
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:447
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:448
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1178
 msgid "Uh…!"
 msgstr "うっ...!"
 
 #. [unstore_unit]
 #: Fate_of_a_Princess/scenarios/11_Broken_Treaty.cfg:337
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:461
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:462
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1192
 msgid "2"
 msgstr "2"
@@ -3376,12 +3376,12 @@ msgstr ""
 "した。"
 
 #. [label]
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:288
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:289
 msgid "Elengavion Castle"
 msgstr "エレンギャヴィオン城"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:299
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:300
 msgid ""
 "Háwclyn and Zylvia, I am glad you are back safely. This is a very serious "
 "situation. I felt a powerful spirit enter Dorest early this morning. Please "
@@ -3392,7 +3392,7 @@ msgstr ""
 "した者の様子を聞かせて下さい。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:303
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:304
 msgid ""
 "They looked… strange, your majesty. Vacant. It seemed like they didn’t know "
 "who they were."
@@ -3401,7 +3401,7 @@ msgstr ""
 "子でした。"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:307
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:308
 msgid ""
 "That sounds like the work of Gulcyn the Wizard. And yet, while the spirit I "
 "felt this morning was similar to his, its power was  much greater. I had "
@@ -3412,12 +3412,12 @@ msgstr ""
 "ノでした。それにガルシンは、何年も前に亡くなったと聞いています。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:311
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:312
 msgid "Your majesty, Rhyss said, ’Gulder… for Gulder’ as he fell."
 msgstr "陛下、リッスは、倒れる前にガルダー、ガルダー様...　と言っていました。"
 
 #. [message]: speaker=Zluld
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:315
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:316
 msgid ""
 "I believe ‘Gulder’ was the name of Gulcyn’s only son who were born from "
 "Fioniel of the Lintania Forest. He could probably use the same magical arts "
@@ -3429,7 +3429,7 @@ msgstr ""
 "ワーを持っていた。だが、彼も数年前に死んだと聞いている。"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:319
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:320
 msgid ""
 "It seems we were misled. He must have been deliberately concealing his "
 "powers until he was ready. But why is he using the humans in Dorest to "
@@ -3441,12 +3441,12 @@ msgstr ""
 "しょう?"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:323
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:324
 msgid "Eämeral closed her eyes and meditated briefly, then continued."
 msgstr "イエーミラルは目を閉じて、短時間黙想してから続けました。"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:328
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:329
 msgid ""
 "Well. Whether it is Gulder or not, it is clear we are under attack by "
 "someone with great magical power and human armies at his command. There is "
@@ -3461,12 +3461,12 @@ msgstr ""
 "はとても厳重です。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:332
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:333
 msgid "Whatever you say, I will do, ma’am."
 msgstr "何をおっしゃられても、私はやり遂げます、陛下。"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:336
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:337
 msgid ""
 "I believe we could defeat the Dorest humans, if we had reinforcements from "
 "the northern Greenwood. I do not believe we could defeat the mage "
@@ -3480,7 +3480,7 @@ msgstr ""
 "る者が必要です。それは、私の異父姉妹、アリングウェン。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:340
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:341
 msgid ""
 "The mention of Alingwen’s name caused a stir in the audience. The tale of "
 "Alingwen was little-known among the younger elves such as Háwclyn."
@@ -3489,12 +3489,12 @@ msgstr ""
 "若いエルフにとってアリングウェンの話は、一つの伝説に過ぎなかったからです。"
 
 #. [message]: speaker=Zluld
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:345
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:346
 msgid "Are you serious, your majesty? Do you even know where she is?"
 msgstr "本気ですか、陛下?　彼女が何処に居るかご存知なのですか?"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:349
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:350
 msgid ""
 "I do not know exactly where she lives, Lord Zluld, but I feel her presence "
 "west from here and not very far away. She has probably chosen a dwelling in "
@@ -3507,7 +3507,7 @@ msgstr ""
 "と共に戦えば勝算は十分に...。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:353
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:354
 msgid ""
 "The queen spoke sadly, recalling her sorrow when Alingwen departed those "
 "many years ago. She had always hoped she would see her half-sister again "
@@ -3521,7 +3521,7 @@ msgstr ""
 "し出しました。"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:360
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:361
 msgid ""
 "Finding Alingwen and bringing her back here safely will not be easy, but you "
 "must not fail. Háwclyn, this talisman is one of a pair. Our mother Queen "
@@ -3534,7 +3534,7 @@ msgstr ""
 "と、そなたの役に立つでしょう。"
 
 #. [message]: speaker=Zluld
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:365
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:366
 msgid ""
 "Ma’am, I am still concerned. Even if Háwclyn finds your half-sister, I "
 "wonder whether she will join us. She may even hold a grudge against us."
@@ -3543,7 +3543,7 @@ msgstr ""
 "も、果たして我々に協力するでしょうか?　彼女は我々を恨んでいるのでは?"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:369
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:370
 msgid ""
 "That is why I am sending Háwclyn, and why I gave him my talisman. Alingwen "
 "respected his father, Elen-Garil, as a mentor, remember? Háwclyn can also "
@@ -3560,7 +3560,7 @@ msgstr ""
 "命が私たちの唯一の希望です。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:373
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:374
 msgid ""
 "Originally, the army of Greenwood elves had been organized for a mission "
 "that was to protect the security of the northern area of the Lintanir "
@@ -3574,7 +3574,7 @@ msgstr ""
 "でした。"
 
 #. [message]: speaker=Zluld
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:378
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:379
 msgid ""
 "In that case, Ma’am, with your permission I would like to send my daughter "
 "with Háwclyn. She knows Princess Alingwen’s story, and she may add further "
@@ -3585,7 +3585,7 @@ msgstr ""
 "何か役に立つでしょう。"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:382
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:383
 msgid ""
 "Háwclyn and Zylvia, our lives are in your hands. Horses will not be able to "
 "cross the terrain you must cover, and I cannot spare many soldiers to send "
@@ -3598,7 +3598,7 @@ msgstr ""
 "らなくては成りません。それは極めて重要です。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:386
+#: Fate_of_a_Princess/scenarios/12_Queen_Eameral.cfg:387
 msgid "Yes, ma’am."
 msgstr "承知致しました、陛下。"
 
@@ -3626,25 +3626,25 @@ msgstr ""
 #. [side]: type=Southern Warmaster, id=Gyganitonk
 #. [side]: type=Southern Warmaster, id=Silingako
 #. [side]: type=Southern Warmaster, id=Tuweng
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:50
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:94
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:209
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:245
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:184
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:51
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:95
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:210
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:246
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:185
 #: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:223
 #: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:168
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:345
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:376
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:357
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:388
 msgid "Southern Orcs"
 msgstr "南方オーク族"
 
 #. [side]: type=Southern Savage, id=Yokomhorto
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:53
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:54
 msgid "Yokomhorto"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:124
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:125
 msgid ""
 "While equipped with his family heirlooms, Háwclyn has a lightning attack, "
 "and his resistances and movement rates have been altered."
@@ -3653,14 +3653,14 @@ msgstr ""
 "預かり物により、稲妻攻撃を可能としました。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:129
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:130
 msgid ""
 "The Guard Captain ordered me to carry our banner. It feels so odd for me to "
 "be bearing it."
 msgstr "防衛大尉より軍旗を持つ事を課されたが、私には妙な感じがする。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:133
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:134
 msgid ""
 "It’s all right. … We have to travel without a captain or marshal anyway.\n"
 "–Look! By the old fortress – there’s a tree branch stripped of leaves! Our "
@@ -3672,68 +3672,68 @@ msgstr ""
 "るサインです!　誰かが助けを求めています!"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:166
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:167
 msgid "Move Háwclyn or Zylvia to the castle in the west"
 msgstr "ハァウクリンかズィルヴィアを北西の城へ移動"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:195
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:196
 msgid "Orcish Territory"
 msgstr "オークの領土"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:200
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:201
 msgid "We are entering orcish territory now. Keep alert."
 msgstr "我々はオークの領地に侵入した。気を付けるように。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:319
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:320
 msgid "Even the beasts seem crazed!"
 msgstr "まるで、獣たちまで呪われている様に見える。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:339
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:340
 msgid "Yes, somebody has been here, recently… Elin-Sal, I hope."
 msgstr "確かに誰か居る...　エリンーサル隊長だと良いのだが。"
 
 #. [unit]: id=Merllow, type=White Mage
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:347
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:348
 msgid "Merllow"
 msgstr "ミィルロウ"
 
 #. [unit]: id=Scalley, type=Footpad
 #. [unit]: id=Scalley, type=Outlaw
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:365
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:382
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:366
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:383
 msgid "Scalley"
 msgstr "スキャリー"
 
 #. [unit]: type=Elvish Recruit, id=Elanglois
 #. [unit]: type=Elvish Recruit, id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:401
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:508
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:538
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:568
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:402
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:509
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:539
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:569
 msgid "Elanglois"
 msgstr "エラングロイス"
 
 #. [unit]: id=Cryndil, type=Elvish Marksman
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:410
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:411
 msgid "Cryndil"
 msgstr "クリンディル"
 
 #. [unit]: type=Elvish Fighter, id=Nimalon
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:423
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:424
 msgid "Nimalon"
 msgstr ""
 
 #. [unit]: id=Amefulvia, type=Elvish Archer
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:432
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:433
 msgid "Amëfulvia"
 msgstr ""
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:448
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:449
 msgid ""
 "Sergeant Cryndil, Merllow, honored mage, greetings. Elengavion Castle is in "
 "danger, sergeant. You will need to return immediately. But before you "
@@ -3744,7 +3744,7 @@ msgstr ""
 "ているのか聞かせてくれ。エリンーサル隊長はどこに居るんだ?"
 
 #. [message]: id=Cryndil
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:452
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:453
 msgid ""
 "Dead, sir. Merllow came to us in great haste, with news of some… disturbance "
 "in Dorest, and a force of southern orcs only hours behind him. Since the "
@@ -3756,7 +3756,7 @@ msgstr ""
 "来ない様、食い止めなければ成りません。"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:456
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:457
 msgid ""
 "It’s a rogue half-elven wizard called Gulder. He was using the powers of "
 "Domination that Gulcyn used to have, all those years ago. He took Dorest by "
@@ -3769,7 +3769,7 @@ msgstr ""
 "ク達を集めてイレンギャヴィオン城を攻撃するつもりじゃよ。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:460
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:461
 msgid ""
 "Southern orcs? How has he been able to control orcs? They do not normally "
 "listen to what humans say, do they?"
@@ -3778,7 +3778,7 @@ msgstr ""
 "は、人間たちの言う事など聞かないのでは?"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:464
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:465
 msgid ""
 "Yes, that’s true. Domination does not work on orcs. … I don’t know, milady. "
 "I was too busy trying to escape before I too was enslaved."
@@ -3787,7 +3787,7 @@ msgstr ""
 "私はただ奴隷にされる前に信者達と共に町を脱出したんじゃ。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:468
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:469
 msgid ""
 "Very well. I will take care of the orcs here. We must continue in this "
 "direction to reach the mountains of Dorth anyway. Sergeant Cryndil, please "
@@ -3800,12 +3800,12 @@ msgstr ""
 "兵士が必要だ。"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:472
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:473
 msgid "Why, certainly. I am no use to anyone, blundering about in the woods…"
 msgstr "了解した。いずれにせよ、ここに隠れ続けていても意味は無い。"
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:476
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:477
 msgid ""
 "Sergeant Cryndil! Sir! May I go with Major Háwclyn? I would like to help "
 "forge a legend."
@@ -3814,7 +3814,7 @@ msgstr ""
 "を作りたいのです。"
 
 #. [message]: id=Cryndil
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:480
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:481
 msgid ""
 "Eh, that’s the ranking officer’s decision, not mine. Still, taking one "
 "soldier fewer back to the castle does no harm that I can see."
@@ -3823,55 +3823,55 @@ msgstr ""
 "一人では、我々と共に城に戻ったところで、さほど助けには成らんであろう。"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:484
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:485
 msgid "Yes, he seems keen. I will gladly take him."
 msgstr "私と共に行こう。君の熱心な気持ちはきっと私の助けに成る。"
 
 #. [message]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:489
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:490
 msgid "You may choose Elanglois's trait"
 msgstr "新たな旅の同行者、エラングロイスの’特性’を選んで下さい。"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:493
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:494
 msgid "He should be faster."
 msgstr "彼の動きを速くする。"
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:497
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:498
 msgid "I got the 'quick' trait!"
 msgstr "’敏捷’の特性を得た!"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:523
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:524
 msgid "He should be stronger."
 msgstr "彼の攻撃力を高める。"
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:527
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:528
 msgid "I got the 'strong' trait!"
 msgstr "’強力’の特性を得た!"
 
 #. [option]: id=foap_trait_choice, speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:553
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:554
 msgid "He should be tougher."
 msgstr "彼の防御力を高める。"
 
 #. [message]: id=Elanglois_fake
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:557
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:558
 msgid "I got the 'resilient' trait!"
 msgstr "’頑強’の特性を得た!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:599
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:600
 msgid "You can now recruit Merllow the Sage’s <i>Followers</i>."
 msgstr "賢者ミィルロウの従者達を雇用出来ます。"
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:626
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:178
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:476
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:282
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:627
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:179
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:477
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:283
 #: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:292
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:114
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:149
@@ -3880,12 +3880,12 @@ msgid "Death of Merllow"
 msgstr "賢者ミィルロウが没"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:645
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:646
 msgid "Aargh!"
 msgstr "あぁぁっ!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:653
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:654
 msgid ""
 "I still see no reason for southern orcs to lurk here, whether they came of "
 "their own accord or because Gulder sent them."
@@ -3894,7 +3894,7 @@ msgstr ""
 "たのか、又は、ガルダーが送り込んだとしても。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:657
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:658
 msgid ""
 "That small river leads in the direction of the Mountains of Dorth. We should "
 "follow it. There will be a bridge to get across the River Bork."
@@ -3904,20 +3904,20 @@ msgstr ""
 
 #. [message]: speaker=Merllow
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:671
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:521
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:672
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:522
 msgid "Aaaargh…!"
 msgstr "あああぁぁ...!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:675
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:676
 msgid ""
 "Oh, no! That is a fatal blow to my mission. What will I do without his "
 "knowledge of magic??"
 msgstr "まさか!　彼の知識と魔法無しでは、私の任務の上で致命的な打撃だ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:690
+#: Fate_of_a_Princess/scenarios/13_Over_the_Hills.cfg:691
 msgid "I have failed my Queen and my people…"
 msgstr "私は任務に失敗してしまった。"
 
@@ -3940,38 +3940,38 @@ msgstr ""
 "をしていました。"
 
 #. [side]: type=Southern Savage, id=Bongasa
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:93
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:94
 msgid "Bongasa"
 msgstr ""
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:139
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:140
 msgid "Latoromo"
 msgstr ""
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:142
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:129
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:143
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:130
 msgid "Mage-led Orcs"
 msgstr "オーク魔術師隊"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:166
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:167
 msgid "First defeat the Orcish Mage"
 msgstr "まず、オークの魔術師を倒す"
 
 #. [message]: speaker=Bongasa
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:236
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:237
 msgid "Let’s claim these lands for orcs!"
 msgstr "ここを占領するぞ!"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:245
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:246
 msgid "Kyeee… why are sssouth orcs in my territory?"
 msgstr "キー... 何でヤー、何で南のオークがワテの領土に居るんヤー?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:249
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:250
 msgid ""
 "Sir, may we offer you our help? We are no friends of orcs, and we must fight "
 "past them to get to the Mountains of Dorth in any case."
@@ -3980,7 +3980,7 @@ msgstr ""
 "に向かうに辺り、ここを押し通らなければ成らない。"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:258
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:259
 msgid ""
 "Tccht! Ssstrange! Why you carry the elvish banner when you are not captain "
 "or marshal? Tcht! You must be fake elf…"
@@ -3989,19 +3989,19 @@ msgstr ""
 "持ってるんヤ?　チィ!　さてはお前、偽エルフやな。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:262
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:263
 msgid "I am Háwclyn, son of Elen-Garil."
 msgstr "私は、エレンーガリルの息子、ハァウクリン。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:266
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:467
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:328
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:267
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:468
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:329
 msgid "And I am Zylvia, daughter of Lord Zluld."
 msgstr "そして私は、ズラルド君主の娘、ズィルヴィア。"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:275
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:276
 msgid ""
 "Elen-Garil? And Tsss-luld…? I have heard those namess… Ah, Elvanadíon’s "
 "right-hand man, and his younger brother! … You may join."
@@ -4011,13 +4011,13 @@ msgstr ""
 
 #. [unit]: id=Vladnir, type=Drake Alchemist
 #. [unit]: type=Drake Alchemist, id=Vladnir
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:295
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:296
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:985
 msgid "Vladnir"
 msgstr "ヴラドニァー"
 
 #. [message]: speaker=Vladnir
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:322
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:323
 msgid ""
 "Goblins? Orcs? Berserkers? Here? And southern raiders at that!? What is the "
 "land coming to?"
@@ -4026,12 +4026,12 @@ msgstr ""
 "るんだ?　分からんキ!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:326
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:327
 msgid "Who is that?"
 msgstr "誰だ?"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:330
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:331
 msgid ""
 "Tsss. Friend. Name Vladnir. Leave him alone though. Likess ssaurians. Lesss "
 "fond of other ground-crawlerss."
@@ -4040,43 +4040,43 @@ msgstr ""
 "ヤ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:371
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:372
 msgid "To Prestim"
 msgstr "プレスティムへ"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:389
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:390
 msgid "To Lmarig"
 msgstr "リマリグへ"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:402
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:403
 msgid "We are out of time!"
 msgstr "時間切れだ!"
 
 #. [message]: id=Bongasa
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:412
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:413
 msgid "Oh, no! Curse it, they’ve butchered the shaman!"
 msgstr "オウ、何だ!　恨むぞ。奴らは我々のまじない師を虐殺しやがった!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:416
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:417
 msgid "… Ha… ha… ha… This is not the end… Gulder… for Gulder…"
 msgstr ""
 "...　ハッ...　ハッ...　ハッ...　これで終わりではない。ガルダー、ガルダー様..."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:424
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:425
 msgid "Wait, that is exactly what Rhyss said."
 msgstr "ちょっと待って、それはリッスが言った言葉と全く同じです。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:428
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:429
 msgid "Does that mean the orcish mage was also controlled by Gulder?"
 msgstr "その意味は、オークの魔法使いもガルダーに操られていると?"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:432
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:433
 msgid ""
 "Hmmm… Perhaps Gulcyn’s arts depend on the sensitivity of the victim’s brain. "
 "It might not work for most orcs, but it might work for their shamans…"
@@ -4085,7 +4085,7 @@ msgstr ""
 "ちには効果が無いが、彼らの呪い師となると話は別じゃ。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:436
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:437
 msgid ""
 "So you mean Gulder could control the orcish shamans, and they could command "
 "the southern orcs?"
@@ -4094,12 +4094,12 @@ msgstr ""
 "しているとおっしゃるのですか?"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:440
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:441
 msgid "I am just saying it might be a possibility…"
 msgstr "私は、ただその可能性が有ると申しただけじゃが...。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:444
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:445
 msgid ""
 "I do hope you are wrong, Merllow, but I think we should now make all "
 "possible haste."
@@ -4108,8 +4108,8 @@ msgstr ""
 "うだ。"
 
 #. [message]: speaker=Xizzyx
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:495
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:558
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:496
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:559
 msgid ""
 "Haaawclyn, Tsss-ylvia, you fought well. If you need to get into mountains of "
 "Dorth, you had better clime from the northeassst. You may take ssaurianss "
@@ -4119,26 +4119,26 @@ msgstr ""
 "から登るのがエエ。ドレークに会うかも知れんから、ワテの戦士を連れて行きヤ。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:499
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:562
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:500
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:563
 msgid "Thank you, sir."
 msgstr "礼を言う。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:503
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:566
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:504
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:567
 msgid "You can now recruit <i>Saurian Skirmishers</i>."
 msgstr "トカゲの散兵を雇用できます。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:525
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:526
 msgid "Merllow the Sage! Oh no! We still needed his help."
 msgstr "賢者ミィルロウ...!　まさか!　我々はあなたが必要だ!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:538
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:452
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:567
+#: Fate_of_a_Princess/scenarios/14_In_the_Swamps.cfg:539
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:453
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:568
 msgid "Aaarh…"
 msgstr "ああぁぁっ..."
 
@@ -4163,34 +4163,34 @@ msgstr ""
 
 #. [unit]: type=Saurian Ambusher, id=Kerxnix
 #. [unit]: type=Saurian Skirmisher, id=Kerxnix
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:60
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:71
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:61
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:72
 msgid "Kerxenix"
 msgstr ""
 
 #. [side]: type=Dwarvish Noble, id=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:86
 #: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:87
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:88
 msgid "Turuk"
 msgstr "タラク"
 
 #. [unit]: type=Dwarvish Fighter, id=Thdurus
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:158
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:159
 msgid "Thdurus"
 msgstr ""
 
 #. [side]: type=Southern Warmaster, id=Tuweng
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:206
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:207
 msgid "Tuweng Kli’ike"
 msgstr ""
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:244
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:245
 msgid "Rodaroti"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:286
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:287
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:118
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:145
 #: Fate_of_a_Princess/utils/FoaP-scenarios.cfg:172
@@ -4199,27 +4199,27 @@ msgid "Death of Turuk"
 msgstr "タラクが没"
 
 #. [message]: id=Kerxnix
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:322
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:323
 msgid "This way, sssir!"
 msgstr "こっちヤ!"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:353
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:354
 msgid "Uh-oh! There is another group of Southern Orcs!"
 msgstr "なんと!　南のオークがここにも来ている!　"
 
 #. [message]: id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:357
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:358
 msgid "… Take… over… here…"
 msgstr "...　ここを...　占領...　せよ...。"
 
 #. [message]: id=Tuweng
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:361
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:362
 msgid "Yes! Sir!"
 msgstr "分かりました!　親方!"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:365
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:366
 msgid ""
 "Hey, elf lad! I judge ye are nae friends tae the orcs! Help me fight these "
 "southern marauders! They shouldnae be this far from their homelands!"
@@ -4228,7 +4228,7 @@ msgstr ""
 "奪者たちと戦うのを手伝わんか!　奴らはここサ居るべきでは無いのだ!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:369
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:370
 msgid ""
 "Gladly, sir. If we are to find the Princess Alingwen, we would have to fight "
 "our way past them in any case."
@@ -4237,7 +4237,7 @@ msgstr ""
 "し通らなければ成らない。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:373
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:374
 msgid ""
 "‘Princess Alingwen’…? Hmmm… That name is no’ familiar to me, but I do know "
 "an elven sorceress wi’ a talisman very like that one you bear."
@@ -4246,12 +4246,12 @@ msgstr ""
 "とソックリな物を持っているエルフの魔女なら知っとるベサ。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:377
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:378
 msgid "Really? Sir, do you know where this sorceress lives?"
 msgstr "何だって?　貴方は彼女の居所を知っているのですか?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:381
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:382
 msgid ""
 "I am the Warden o’ the Mountains o’ Dorth. Ah ken everything about this "
 "range, but the tellin’ can wait ’til after the battle."
@@ -4259,44 +4259,44 @@ msgstr ""
 "俺はドース山脈の長官だドモ、ここの事は何でも知ってるベサ。でも話は戦の後だ。"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:400
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:401
 msgid "Aaargh…!"
 msgstr "ああぁぁっ...!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:404
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:405
 msgid ""
 "Merllow the Sage! Oh no, that is a grievous loss! We still needed his help!"
 msgstr ""
 "賢者ミィルロウ!　困ったな、これは重大な損害だ!　我々は貴方がまだ必要だ!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:417
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:418
 msgid "Urgh…! This is not the end… Gulder! … For Gulder…"
 msgstr "ウググ...　これで終わりではない。ガルダー、ガルダー様..."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:425
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:426
 msgid "What did he say?"
 msgstr "何て言ったダ?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:429
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:430
 msgid "I am becoming increasingly sure you were right, Merllow the Sage."
 msgstr "賢者ミィルロウ、どうやら貴方が正しかった様だ。"
 
 #. [message]: speaker=Merllow
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:433
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:434
 msgid "Well, I… ahem… thank you …"
 msgstr "ああ、まあ...　どうも..."
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:459
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:460
 msgid "Well fought, young elf. Now, who be ye?"
 msgstr "よく戦ったダ、若いエルフ。さて、御主は誰だ?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:463
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:464
 msgid ""
 "I am Háwclyn, son of Elen-Garil, from Elengavion Castle in the southern "
 "Greenwood."
@@ -4305,12 +4305,12 @@ msgstr ""
 "息子ハァウクリンと申します。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:471
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:472
 msgid "Eh! What?"
 msgstr "えっ!　何と?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:486
+#: Fate_of_a_Princess/scenarios/15_Dwarvish_Warden.cfg:487
 msgid ""
 "Oho! Elen-Garil’s son an’ Zluld’s daughter, seeking the elven sorceress I "
 "talked about? This is clearly a mission of some importance to your people. "
@@ -4344,31 +4344,31 @@ msgstr ""
 "かっている事を...。"
 
 #. [unit]: id=Rambaltas, type=Dwarvish Runesmith
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:60
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:61
 msgid "Rambaltas"
 msgstr "ランバルタス"
 
 #. [side]: id=Falci-Nyess, type=Drake Lord
 #. [side]: id=Falci_Nyess, type=Drake Lord
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:79
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:46
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:80
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:47
 msgid "Drakes"
 msgstr "ドレーク族"
 
 #. [side]: id=Falci-Nyess, type=Drake Lord
 #. [side]: id=Falci_Nyess, type=Drake Lord
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:82
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:48
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:83
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:49
 msgid "Falci-Nyess"
 msgstr "ファルシーネッス"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:138
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:139
 msgid "Move one unit to the item you want it to have."
 msgstr "一つのユニットを選んで、アイテムに移動"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:198
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:199
 msgid ""
 "Ye unnerstan’, that last battle was merely the latest we’ve had. I think the "
 "orcs are using the port at Prestim. I dinnae see another way fer southern "
@@ -4379,7 +4379,7 @@ msgstr ""
 "北地域サ来る方法は考えがたいベサ。"
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:202
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:203
 msgid ""
 "They certainly cannot have passed through Wesnoth itself, now that King "
 "Haldric has put his house in order. But whatever the cause, something "
@@ -4389,7 +4389,7 @@ msgstr ""
 "国王が阻止するやろ。しかし、そう成ると事は尋常じゃ無いぜよ。どないする、戦友?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:206
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:207
 msgid ""
 "I will guide our guests tae the Mistress of Eisheim, the lady Ameck. They "
 "said ‘Princess Alingwen’, but I dinnae doubt it’s her. I reckon Eisheim is "
@@ -4400,22 +4400,22 @@ msgstr ""
 "居るべか?"
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:210
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:211
 msgid "Of course! SHOKO!!"
 msgstr "モチロン!　ショーコ!"
 
 #. [unit]: type=Elvish Shaman, id=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:215
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:216
 msgid "Shoko"
 msgstr "ショーコ"
 
 #. [message]: speaker=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:232
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:233
 msgid "Coming, Lord Falci-Nyess."
 msgstr "今行くわ、ファルシーネッス君主。"
 
 #. [message]: speaker=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:237
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:238
 msgid ""
 "Oh! Guests! Greetings… I am Shoko, foster daughter of Turuk. How do you do?"
 msgstr ""
@@ -4423,7 +4423,7 @@ msgstr ""
 "して。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:241
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:242
 msgid ""
 "Shoko, lass. This is a party fra’ the Greenwood. I have tae tek them tae see "
 "Mistress Ameck. She is a hard lady tae deal with, especially for me. Will ye "
@@ -4434,12 +4434,12 @@ msgstr ""
 "来てくれないか?"
 
 #. [message]: speaker=Shoko
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:245
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:246
 msgid "I would love to, father. It will be a pleasure."
 msgstr ""
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:257
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:258
 msgid ""
 "I will post extra guards until you all return. Take some extra gold with "
 "you. And… here, a little trinket."
@@ -4448,7 +4448,7 @@ msgstr ""
 "れから...　これ、指輪。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:273
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:274
 msgid ""
 "A unit wearing this ring will <i>heal</i> by 4 hitpoints per turn. If "
 "<i>poisoned</i>, it will recover from the poisoning instead."
@@ -4457,12 +4457,12 @@ msgstr ""
 "せんが、解毒します。"
 
 #. [object]: id=red_ring
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:352
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:353
 msgid "Ring of Recovery"
 msgstr "回復の指輪"
 
 #. [object]: id=red_ring
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:354
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:355
 msgid ""
 "While wearing the ring of recovery, a unit will heal by 4 hitpoints per "
 "turn. If poisoned, the poison will be removed instead."
@@ -4471,7 +4471,7 @@ msgstr ""
 "復させます。"
 
 #. [message]: speaker=Falci-Nyess
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:370
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:371
 msgid ""
 "Take care, all of you, and be wary around Mistress Ameck. She once turned "
 "one of my enforcers to stone, so do not make her angry, no?"
@@ -4480,22 +4480,22 @@ msgstr ""
 "変えチョったキ、くれぐれも怒らせん様にな。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:380
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:381
 msgid "… In… Indeed."
 msgstr "...　りょ、了解した。"
 
 #. [regenerate]: id=recovery
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:399
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:400
 msgid "recovery"
 msgstr "復活"
 
 #. [regenerate]: id=recovery
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:400
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:401
 msgid "female^recovery"
 msgstr "復活"
 
 #. [regenerate]: id=recovery
-#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:401
+#: Fate_of_a_Princess/scenarios/16_Drake_Lord.cfg:402
 #, fuzzy
 msgid ""
 "The unit will heal by 4 hitpoints per turn. If it is poisoned, the poison "
@@ -4525,7 +4525,7 @@ msgstr ""
 "た。"
 
 #. [side]: type=Troll Warrior, id=Troll Warrior
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:88
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:89
 msgid "Troll Warrior"
 msgstr "トロルの戦士"
 
@@ -4533,21 +4533,21 @@ msgstr "トロルの戦士"
 #. [side]: type=Troll Shaman, id=Rok
 #. [side]: type=Troll Shaman, id=Troll Shaman
 #. [side]: type=Troll Warrior, id=Troll Warrior
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:90
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:110
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:91
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:111
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:172
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:80
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:99
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:81
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:100
 msgid "Trolls"
 msgstr "トロル族"
 
 #. [side]: type=Troll Shaman, id=Troll Shaman
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:108
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:109
 msgid "Troll Mage"
 msgstr "トロルの呪術師"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:136
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:137
 msgid ""
 "We must pass through here to reach Eisheim. There used to be a mage’s "
 "college west of here, but it was abandoned some years ago."
@@ -4556,13 +4556,13 @@ msgstr ""
 "関がここの西サ有ったんだが、何年か前サ無くなってしまったダよ。"
 
 #. [message]: speaker=Shoko
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:140
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:141
 msgid "Yes, trolls have taken over here now; we will have to be careful."
 msgstr ""
 "その通り、トロル達がここを占領しちゃったのよ。気を付けなくてはいけないわ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:144
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:145
 #, fuzzy
 msgid ""
 "You can now recruit <i>Dwarvish Scouts</i> and <i>Drake Fighters</i>, and "
@@ -4570,23 +4570,23 @@ msgid ""
 msgstr "ドワーフのスカウト、ドレークの戦士 を雇用出来ます。"
 
 #. [objectives]
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:157
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:158
 msgid "Hint: Send one or two units to the west"
 msgstr "ヒント:　一人か二人を西に向かわせる"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:210
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:211
 msgid "Oh, that’s a staff of speed! One of us should take it!"
 msgstr "オォッー!　それは、スピードの杖だ。我々の誰かが取るべきだ!"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:223
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:224
 msgid "Stand ready, everyone!"
 msgstr "戦闘準備!"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:267
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:341
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:268
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:342
 msgid ""
 "Oh, this tunnel was built by us a long time ago… Trolls don't go through it, "
 "though. We played a trick so that the tunnel makes sounds that the trolls "
@@ -4596,8 +4596,8 @@ msgstr ""
 "て来ん。風が吹くと奴らの嫌いな音が鳴る様に細工がしてあるベサ。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:273
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:347
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:274
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:348
 msgid ""
 "Oh, that tunnel was built by us a long time ago… Trolls don't go through it, "
 "though. We played a trick so that the tunnel makes sounds that the trolls "
@@ -4607,93 +4607,93 @@ msgstr ""
 "い。風が吹くと奴らの嫌いな音の波長が鳴る様に細工がしてあるベサ。"
 
 #. [object]: id=foap_staff
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:408
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:409
 msgid "Staff of Swiftness"
 msgstr "迅速の杖"
 
 #. [object]: id=foap_staff
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:411
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:412
 msgid "This staff will grant the bearer swift movement."
 msgstr "この杖は、持ったユニットに毎ターンごとの｢動き｣を増やします。"
 
 #. [object]: id=foap_staff
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:412
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:413
 msgid "Only magical beings can wield such an object."
 msgstr "エルフ族やドワーフ族の様な魔法の生き物のみがこの杖を扱う事が出来ます。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:465
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:466
 msgid "This magical potion adds 5 to the taker’s maximum hitpoints."
 msgstr "この秘術の薬は、飲んだ者に最大ヒットポイントを＋５増やします。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:470
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:471
 msgid "Should I take this potion?"
 msgstr "飲みますか?"
 
 #. [object]: id=potionhp
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:480
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:481
 msgid "Potion of HP"
 msgstr "秘術のHP薬"
 
 #. [object]: id=potionhp
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:483
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:484
 msgid ""
 "This potent draught will permanently add 5 points to the drinker’s maximum "
 "hitpoints."
 msgstr "この薬は、飲んだユニットのヒットポイントを５つ増やします。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:498
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:499
 msgid ""
 "Bottoms up! Seems it was left here on purpose. Perhaps Vladnir has been here…"
 msgstr ""
 "ふむふむ、どうもそれは意図的サ置かれてる様ダベ。多分ヴラドニャーが来たな。"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:508
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:509
 msgid "… ‘Vladnir’? I have heard that name before…"
 msgstr "... ヴラドニャー?　聞いた事か有る名だ...。"
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:512
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:513
 msgid "We ran across him in the swamp! Remember?"
 msgstr "我々は、沼地で彼に会いましたよ。覚えてますか?"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:550
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:551
 msgid "… Goodbye… father… now I will see Mama again."
 msgstr "...　さようなら...　父上...　これで再び母上に会えるわ。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:554
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:555
 msgid ""
 "Rend my beard! Sho-Shoko! … Beloved foster daughter! My heart is broken!"
 msgstr ""
 "ひげを引き裂かれる!　ショ、ショーコ!　...　最愛の養女よ!　私の心が壊れる!"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:581
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:582
 msgid "One troll is vanquished, but there is still one west o’ here."
 msgstr "ヨシ、一匹やっつけたぞ。もう一匹西側サいるダ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:593
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:594
 msgid "Urghgh…"
 msgstr "ウガガ...。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:607
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:608
 msgid "Now only tha’ eastern troll remains."
 msgstr "ヨシ、残りは東側サもう一匹ダベ。"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:616
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:617
 msgid "All right, let’s keep moving. Eisheim isnae far fra’ here."
 msgstr "ヨシヨシ、進み続けるぞ。イーシィームは、ここからそれほど遠く無い。"
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:620
+#: Fate_of_a_Princess/scenarios/17_Mountain_Path.cfg:621
 msgid "I am glad to hear it."
 msgstr "良い知らせです。"
 
@@ -4982,7 +4982,7 @@ msgstr ""
 #. [message]: speaker=unit
 #. [message]: type=Yeti
 #: Fate_of_a_Princess/scenarios/18_Hydra_Cavern.cfg:779
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:344
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:345
 msgid "<big>GRAAA!</big>"
 msgstr "<big>グラァァッ!</big>"
 
@@ -5014,29 +5014,29 @@ msgstr ""
 "した。そしてその道のりには、まだ危険が伴っていました。"
 
 #. [side]: type=Yeti, id=Snow Monster
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:49
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:50
 msgid "Frost Monster"
 msgstr "氷の怪物"
 
 #. [side]: type=Yeti, id=Snow Monster
 #. [side]: type=Yeti, id=Yeti
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:51
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:40
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:52
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:41
 msgid "Yetis"
 msgstr "イエティ族"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:177
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:178
 msgid "We are here. This is the burgh of Eisheim. It is nae a big place."
 msgstr "ここまで来たぞ。ここはイーシィームの市内だ。大きい町では無いベサ。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:191
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:192
 msgid "My goodness! … An ice monster!"
 msgstr "ウオッー!　氷の怪物!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:195
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:196
 msgid ""
 "Aye, lad, yetis. They do come up here sometimes, although they usually stay "
 "south-east o’ the town. We must tread cautiously."
@@ -5045,7 +5045,7 @@ msgstr ""
 "が。気を付けて踏みとどまらくてはいかん。"
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:199
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:200
 msgid ""
 "Eisheim is home to many Oreads, snow fairies, whom Ameck commands. And "
 "because of the fairies, unicorns gather here too. They are wont to "
@@ -5056,24 +5056,24 @@ msgstr ""
 "わ。私を含めて、彼らもよそ者にはとっても危険よ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:210
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:211
 msgid "… Goodbye… father… Now I will see Mama again…"
 msgstr "...　さようなら...　父上...　これで再び母上に会えるわ...。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:214
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:215
 msgid ""
 "Noo, Sho…Shoko!! … Beloved foster daughter! How can I go on without you…?"
 msgstr ""
 "まさか、ショ、ショーコ!!　お前無しで俺はどう生きれば良いって言うんだ...?"
 
 #. [unit]: id=Ameck, type=Royal Sorceress
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:227
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:228
 msgid "Ameck"
 msgstr "アメック"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:277
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:278
 msgid ""
 "Hold! All of you! Turuk, you stone-headed old fool! I warned you not to "
 "bring anyone here!"
@@ -5082,17 +5082,17 @@ msgstr ""
 "と言ったはずです!"
 
 #. [message]: id=Shoko
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:281
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:282
 msgid "Please, Mistress Ameck! Listen to us! The situation is grave!"
 msgstr "姫様、どうかお聞きください!　事は重大なのです!"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:291
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:292
 msgid "Very well. Come over here, please!"
 msgstr "分かりました。こちらに来なさい。"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:316
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:317
 msgid ""
 "Forgive me, ma’am, but our guests ha’ travelled many days tae find ye. And "
 "we ourselves ha’ been troubled by southern orcs coming tae invade us."
@@ -5101,7 +5101,7 @@ msgstr ""
 "れに我々自身も南のオークの侵略で苦労しております。"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:320
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:321
 msgid ""
 "I care not one whit what orcs do, nor do I care very much for my former "
 "people. I told you that, did I not? But you, young man, you carry my half-"
@@ -5112,7 +5112,7 @@ msgstr ""
 "を持っていますね。それは、私が持っているのとツインです。そなたは何者ですか?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:324
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:325
 msgid ""
 "I am Háwclyn, son of Elen-Garil, from Elengavion Castle in the southern "
 "Greenwood. We came here to ask for your help, your highness."
@@ -5122,7 +5122,7 @@ msgstr ""
 "した。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:332
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:333
 msgid ""
 "Those are two names that I have not heard for many years. How are they now? "
 "And how is my sister?"
@@ -5131,7 +5131,7 @@ msgstr ""
 "　そして私の姉は元気でしょうか?"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:336
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:337
 msgid ""
 "Háwclyn and Zylvia told Ameck everything that had happened back in the "
 "Greenwood: the Dorest humans breaching the peace accord; the rising numbers "
@@ -5144,7 +5144,7 @@ msgstr ""
 "メックはきっちりと話を聞いた後、突然笑い出しました。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:341
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:342
 msgid ""
 "Ha ha ha! They make me an exile from the forest, fearing my power and "
 "disliking my blood. But as soon as they need me I am graciously permitted to "
@@ -5155,19 +5155,19 @@ msgstr ""
 "は丁重に帰還を許される。何て調子が良い事でしょう。ほっほっほっ...。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:345
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:346
 msgid "I told ye she might be hard tae deal with."
 msgstr "言っただろう、だから俺は彼女が苦手なんだ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:349
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:350
 msgid ""
 "Ameck continued laughing for a while, but then the fey mood began to leave "
 "her."
 msgstr "アメックは、しばらく笑い続けた後、真剣に成って言いました。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:354
+#: Fate_of_a_Princess/scenarios/19_Eisheim.cfg:355
 msgid ""
 "(<i>Sigh</i>) But clearly I <i>am</i> needed. It is my duty to return; I "
 "cannot shirk it. It may be my destiny to set these things right. The seed "
@@ -5207,22 +5207,22 @@ msgstr ""
 "地域で有りました。"
 
 #. [side]: type=Yeti, id=Yeti
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:43
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:44
 msgid "Yeti"
 msgstr "イエティ"
 
 #. [side]: type=Great Troll, id=Great Troll
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:78
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:79
 msgid "Tsok"
 msgstr ""
 
 #. [side]: type=Troll Warrior, id=Troll Warrior
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:98
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:99
 msgid "Strong Äg"
 msgstr ""
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:196
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:197
 msgid ""
 "This is the shortest route, but we must beware of trolls.\n"
 "Täkel! You stay in Eisheim! You’ll not find any troll maidens to your "
@@ -5233,12 +5233,12 @@ msgstr ""
 "女はいませんよ。傷つくだけです。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:206
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:207
 msgid "I find the yetis a bigger worry."
 msgstr "俺は、イェティが一番心配だベサ。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:210
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:211
 msgid ""
 "They just want to be left alone. As long as we do not disturb them, they "
 "will not harm us."
@@ -5247,7 +5247,7 @@ msgstr ""
 "ん。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:214
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:215
 msgid ""
 "You can now recruit <i>Snow Shamans</i>.\n"
 "Note: Snow Shamans do not heal, although they can advance to unit types that "
@@ -5258,18 +5258,18 @@ msgstr ""
 "ません。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:239
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:240
 msgid "No, that was a yeti village! That will provoke them!"
 msgstr "それは、イェティの村です。彼らを怒らせますよ。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:278
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:316
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:279
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:317
 msgid "I warned you not to disturb them."
 msgstr "彼らの邪魔をするなと言ったはずです。"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:441
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:442
 msgid ""
 "I never thought I would see yetis fighting for us! What fearsome creatures "
 "they are!"
@@ -5278,37 +5278,37 @@ msgstr ""
 "だ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:457
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:458
 msgid "Aaarr"
 msgstr "ああぁぁ。"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:471
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:472
 msgid "Beware! There is another one in the south. Make haste!"
 msgstr "よろしい!　もう一匹南にいる様です。急ぎましょう!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:488
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:489
 msgid "Aaargh… ME… beaten?"
 msgstr "あぁぁっ...　俺...　やられたの?"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:502
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:503
 msgid "Beware! There is still another one in the north. We must yet hurry!"
 msgstr "よろしい!　もう一匹北側にいる様です。急ぎましょう!"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:517
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:518
 msgid "I hope the yetis will have some peace now."
 msgstr "これでイェティたちも少しは平和に成ると良いのですが。"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:523
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:524
 msgid "Whew…"
 msgstr "ふー...。"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:540
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:541
 msgid ""
 "Täkel! I told you to go back to Eisheim! I’ll turn you to stone if you do "
 "not listen to me."
@@ -5317,7 +5317,7 @@ msgstr ""
 "ら、石にしてしまいますよ。"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:551
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:552
 msgid ""
 "Poor beast, his grief is breaking his mind. He cannot even remember how to "
 "talk any more.\n"
@@ -5329,12 +5329,12 @@ msgstr ""
 "もはや、これ以外には方法は無い様です。ヤー!"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:590
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:591
 msgid "Eh…"
 msgstr "エッ..."
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:594
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:595
 msgid ""
 "Do not worry, son of Elen-Garil. That was a little sorcery. My spell will "
 "fade with the next sunset."
@@ -5343,7 +5343,7 @@ msgstr ""
 "法です。半日以内に元に戻るでしょう。"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:600
+#: Fate_of_a_Princess/scenarios/20_Ice_Monsters.cfg:601
 msgid "Let us begone."
 msgstr "行くベサ。"
 
@@ -5362,30 +5362,30 @@ msgstr ""
 "いていました。"
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:126
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:127
 msgid "Porspniang"
 msgstr ""
 
 #. [side]: type=Southern Warmaster, id=Gyganitonk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:183
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:184
 msgid "Gyganitonk"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Orongayga
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:216
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:217
 msgid "Orongayga"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Orc Warlord
 #. [side]: type=Orcish Warlord, id=Orongayga
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:217
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:218
 #: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:246
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:260
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:255
 msgid "Local Orcs"
 msgstr "地元のオーク族"
 
 #. [message]: id=Orongayga
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:242
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:243
 msgid ""
 "Gwaha… ha! The southern companies have arrived at last! We have all the "
 "forces we need to rip power from the claws of the cursed drakes and the "
@@ -5395,12 +5395,12 @@ msgstr ""
 "するんだ。我々の歴史を作るときがやって来たぞ!"
 
 #. [message]: id=Gyganitonk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:246
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:247
 msgid "Let the rocks run with blood! Kill everything!"
 msgstr "俺たちは、その為にやって来た。皆殺しだ!"
 
 #. [message]: speaker=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:250
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:251
 msgid ""
 "Turuk! A few more hours and you might have been too late. The southern orcs "
 "have found some local allies. I was worried that might happen. But I see you "
@@ -5411,35 +5411,35 @@ msgstr ""
 "良い知らせだキ。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:255
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:256
 msgid "Good day to you, Falci-Nyess."
 msgstr "こんにちは、ファルシーネッス。"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:259
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:260
 msgid "Aye. But nae more talk; we ha’ a hard battle ahead."
 msgstr "ああ、でも話は後だべ。キツそうな戦が目の前だ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:377
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:378
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1107
 msgid "Aaah…!"
 msgstr "あぁぁっ...!"
 
 #. [unstore_unit]
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:391
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:392
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1121
 msgid "4"
 msgstr "4"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:440
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:441
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:1171
 msgid "RooAARRR!!"
 msgstr "ガオオッー!!"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:522
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:523
 msgid ""
 "Hoy, Turuk, remember the battle by the Silent Forest? A lot of orc-heads "
 "flew that day! And we rescued Shoko from that orc encampment!"
@@ -5448,19 +5448,19 @@ msgstr ""
 "と、あん時ショーコを助け出した時の事を思い出すキ!"
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:526
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:527
 msgid "Ah! That was a long time ago. Shoko was just a baby back then."
 msgstr ""
 "ああ、そうだな。あれはだいぶ前だったがな。あの時ショーコは、ほとんど赤ん坊"
 "だったからな。でもあの時は、今よりもっと時間があったベサ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:541
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:542
 msgid "Ugg…! Turuk, I must… entrust my warriors… to you…"
 msgstr "ウググ...!　タラク、お前に... 俺の戦士達の世話を頼むキ..."
 
 #. [message]: id=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:545
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:546
 msgid ""
 "Alas! Of course, old friend. Of course.\n"
 "Háwclyn, my lad, ah’m deeply sorry, but my duties will now bind me tae the "
@@ -5472,22 +5472,22 @@ msgstr ""
 "べ。予定していた御主達との同行は不可能に成ってしまったベサ。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:559
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:560
 msgid "Aaark… "
 msgstr "ああぁく..."
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:590
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:591
 msgid "Aaargh… I lost a mission."
 msgstr "ウウウッ...　使命を達成出来なかった。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:621
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:622
 msgid "… Gulder… for Gulder… more orcs… always more…"
 msgstr "ガルダー、ガルダー様...　もっとオークを...。"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:659
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:660
 msgid ""
 "This is terrible! Orcs are banding together across a wider area than ever "
 "before. This coalition of orcs endangers everyone else, whether elf or "
@@ -5498,7 +5498,7 @@ msgstr ""
 "ゲ族や人間たち全てを危険にする...。"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:663
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:664
 msgid ""
 "I thought of asking Ghidsaurs the dragon to defeat them, but he does not "
 "really listen to me. Mistress Ameck, would you be willing to come with me to "
@@ -5509,7 +5509,7 @@ msgstr ""
 "洞窟まで来てくれんか!　アンタは、彼をよく知っチョルはずだ。"
 
 #. [message]: id=Ameck
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:667
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:668
 msgid ""
 "I may be able to persuade him… But what of our mission to the Greenwood?"
 msgstr ""
@@ -5517,7 +5517,7 @@ msgstr ""
 "です?"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:671
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:672
 msgid ""
 "We will be able to hold our own, your highness. We sent for reinforcements "
 "from the northern Greenwood. They should have arrived by now. The orcs will "
@@ -5528,12 +5528,12 @@ msgstr ""
 "そうは簡単にやられません。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:675
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:676
 msgid "Brave words, Háwclyn. I pray you are right."
 msgstr "勇ましい言葉です、ハァウクリン。そなたが正しい事を祈ります。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:679
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:680
 msgid ""
 "Come, Zylvia! Elves, in their home forest? Even if the orcs and the humans "
 "attacked together, we would be able to withstand them."
@@ -5542,12 +5542,12 @@ msgstr ""
 "ようとも、我々は十分耐えられる。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:683
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:684
 msgid "But, what if Gulder can bend elves to his will?"
 msgstr "しかし、ガルダーが己の意志（情け）を我々エルフ達に傾けると思いますか?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:687
+#: Fate_of_a_Princess/scenarios/21_Coalition_of_Orcs.cfg:688
 msgid ""
 "Lass, there’s nae use frettin’. Always fight the foe in front o’ ye, no’ the "
 "one a week fra’ now. Let’s move on!"
@@ -5826,8 +5826,8 @@ msgstr "岩が動き出した!"
 
 #. [message]: speaker=narrator
 #: Fate_of_a_Princess/scenarios/22_Dragon_Cave.cfg:951
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:623
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:649
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:671
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:697
 msgid "You gain a bonus of 100 gold!"
 msgstr "100ゴールドのボーナスです!"
 
@@ -6124,57 +6124,57 @@ msgid "Extra bonus by defeating each enemy leader"
 msgstr "それぞれの敵のリーダーを倒すとボーナスです"
 
 #. [message]: id=Xizzyx
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:510
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:519
 msgid ""
 "… More eager orc-killerss! Tcchhtt! Make way! Ssave ssome for uss! Hsss-sss-"
 "sss!"
 msgstr "オーク殺しを熱望するで!　チィー!　ワテにも残しといてヤ!"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:514
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:523
 msgid "Oh, Xizzyx! Bless you! Your timing is as good as ever!"
 msgstr "オー、クシッズジックス!　最高のタイミングぜよ!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:694
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:703
 msgid "Oh no, I can’t fall now; you need me still… Tell Turuk –"
 msgstr "おいおい、ワシ無しでは、ゲームは続けられんがぜよ。"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:707
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:716
 msgid ""
 "I never thought Ghidsaurs could <i>be</i> defeated! These orcs are stronger "
 "than I imagined! Retreat!"
 msgstr "ウッ!　信じられん、ギドサウラスが倒された。我々も白旗だな。"
 
 #. [message]: id=Falci_Nyess
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:720
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:729
 msgid "Xizzyx! This is a disaster! We have lost a powerful ally! Woe!"
 msgstr "クシッズジックス!　駄目だ!　今が寿命が尽きる時では無い!!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:730
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:739
 msgid "We have spent too much time."
 msgstr "ワシらは、時間を使い過ぎた様だ。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:747
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:773
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:756
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:782
 msgid "You gain a bonus of 200 gold!"
 msgstr "200ゴールドのボーナスです!"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:758
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:767
 msgid "Aaarck…! The whole northlands was supposed to be our paradise…"
 msgstr "あぁぁっく...!　北の国の全ては、我々の楽園の予定だったのだ...。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:784
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:793
 msgid "Aaargh!! … Hu-humans?"
 msgstr "あぁぁぁっ...!　に、人間だと?"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:822
+#: Fate_of_a_Princess/scenarios/22b_At_Prestim.cfg:831
 msgid ""
 "From 237YW onwards, the southern cities of the far north and the port at "
 "Prestim remained almost exclusively in human hands. The orcs often attempted "
@@ -6227,17 +6227,17 @@ msgid "Silingako"
 msgstr ""
 
 #. [side]: type=Master Bowman, id=Niallas
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:216
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:211
 msgid "Niallas"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Orc Warlord
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:259
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:254
 msgid "Grak Redshanks"
 msgstr ""
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:280
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:275
 msgid ""
 "Háwclyn, Zylvia, Alingwen! What a relief to see you! Alas! Reinforcements "
 "from the northern Greenwood never came, even though we sent messengers over "
@@ -6250,14 +6250,14 @@ msgstr ""
 "すが、それももう...。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:284
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:279
 msgid ""
 "No reinforcements? That is deeply worrying. What could have happened to our "
 "northern brethren?"
 msgstr "援軍が来ない?　とても心配だ。同士達にいったい何があったと言うんだ?"
 
 #. [message]: speaker=Turuk
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:288
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:283
 msgid ""
 "Hmph. Troubles o’ their own, I’ll warrant. I wager the local orcs have "
 "fallen on them, an’ they cannae spare troops no matter how much they’d like "
@@ -6268,7 +6268,7 @@ msgstr ""
 "ダ。これもきっとガルダーの計画だったんだべ。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:292
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:287
 msgid ""
 "And my dear father is preparing a last stand in the castle! Oh, Háwclyn! "
 "What can we do?"
@@ -6277,25 +6277,25 @@ msgstr ""
 "しょう?"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:464
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:455
 msgid "Dear Zylvia… at least I saw you… at… the… end… Proud… of… y–"
 msgstr ""
 "親愛なるズィルヴィアよ...　最後に...　そなたに...　会えた...。そなたを...　誇"
 "りに..."
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:468
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:459
 msgid "Father…! Please, no…!"
 msgstr "父上...!　どうか持ちこたえて...!"
 
 #. [message]: id=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:498
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:489
 msgid "Kill the orcs! Kill them all! The southern orcs killed my father!!"
 msgstr ""
 "オークを倒して!　全て倒して下さい!　南のオークが私の父上を殺したのです!"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:533
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:524
 msgid ""
 "Note: The elves are fully mobilised, and you can recruit <i>Elvish Fighters</"
 "i>, <i>Archers</i> and <i>Shamans</i> onto the castle at Elengavion."
@@ -6304,14 +6304,14 @@ msgstr ""
 "そして女呪術師の雇用が可能です。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:552
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:543
 msgid "… Ha… ha… ha… this is not the end… Gulder… for Gulder…"
 msgstr ""
 "...　ハッ...　ハッ...　ハッ...　これで終わりではない。ガルダー、ガルダー"
 "様...。"
 
 #. [message]: speaker=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:642
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:633
 msgid ""
 "Poor, brave Lord Zluld. My dear uncle. Zylvia… I am so sorry for your loss, "
 "I really am. Háwclyn, well done. Your royal highness, on behalf of all the "
@@ -6322,17 +6322,17 @@ msgstr ""
 "して私が敬礼します。"
 
 #. [message]: speaker=Ameck
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:646
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:637
 msgid "Your majesty. Greetings. Zylvia… My… condolences also."
 msgstr "陛下、ごきげんよう。ズィルヴィア...　私もお悔やみを申し上げます。"
 
 #. [message]: speaker=Hawclyn
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:651
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:642
 msgid "We should have been back sooner. Zylvia, I am deeply sorry."
 msgstr "我々は直ぐに戻るべきだった。ズィルヴィア、本当に申し訳ない。"
 
 #. [message]: speaker=Zylvia
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:655
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:646
 msgid ""
 "He did his duty. He saved our queen… I am so glad that at least I saw him "
 "one last time…"
@@ -6341,7 +6341,7 @@ msgstr ""
 "事ができ、光栄です...。"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:665
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:656
 msgid ""
 "Zylvia, take this sword in his honour. It was discovered by Alingwen’s "
 "father, Baldres, after an unicorn took it, but it was originally forged for "
@@ -6354,7 +6354,7 @@ msgstr ""
 "り、私がそれを承諾します。彼の追憶としてそれを受け取りなさい。"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:674
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:665
 msgid ""
 "Zylvia, take this sword in his honour. It was forged for the royal family of "
 "the Greenwood. I grant it now to you and your heirs. Bear it in his memory."
@@ -6364,12 +6364,12 @@ msgstr ""
 "す。彼の追憶としてそれを受け取りなさい。"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:688
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:679
 msgid "Move Zylvia to the sword"
 msgstr "ズィルヴィアを剣へ移動"
 
 #. [object]: id=greenwood_sword
-#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:706
+#: Fate_of_a_Princess/scenarios/23_Zluld_Last_Stand.cfg:697
 msgid ""
 "The sword, Greenwood Blade, had been taken for the Royal family of the "
 "Greenwood"
@@ -6398,22 +6398,22 @@ msgstr ""
 "た。"
 
 #. [side]: type=Cavalier, id=Virraent
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:293
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:305
 msgid "Virraent"
 msgstr "ヴィアラエント"
 
 #. [side]: type=Orcish Witch Doctor, id=Orcish Mage
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:343
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:355
 msgid "Kologo"
 msgstr ""
 
 #. [side]: type=Southern Warlord, id=Hamakar Lokhaba
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:381
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:393
 msgid "Hamakar Lokhaba"
 msgstr ""
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:473
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:485
 msgid ""
 "Now, that armored warrior is Dessen the Elder Chief. We should try not to "
 "kill him. He is an honorable man; we could trust him to rebuild the city "
@@ -6425,7 +6425,7 @@ msgstr ""
 "に集中して下さい。私はデッセン長老の後ろに何か存在を感じます。"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:477
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:489
 msgid ""
 "Yes, I see something there, ma’am. It looks like a dark portal. I am sure "
 "that was not there before."
@@ -6434,7 +6434,7 @@ msgstr ""
 "確かです。"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:481
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:493
 msgid ""
 "There is a dark power flowing out from that doorway. I have little doubt "
 "that Gulder lurks within. … That chamber should be our main target!"
@@ -6443,27 +6443,27 @@ msgstr ""
 "潜伏して...　その私室を主目標にしましょう。"
 
 #. [objective]: condition=win
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:489
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:501
 msgid "Move Háwclyn to the basement entrance"
 msgstr "ハァウクリンを地下室の入り口に移動"
 
 #. [message]: id=Virraent
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:551
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:599
 msgid "Ooow!"
 msgstr "おおおっう!"
 
 #. [message]: id=Hawclyn
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:560
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:608
 msgid "His horse knows its own mind, at least…"
 msgstr "彼の馬はどうやら操られていないらしい...。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:578
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:626
 msgid "Aaack! Gulder…"
 msgstr "あああっく!　ガルダー様...。"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:586
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:634
 msgid ""
 "Oh, no! I told you not to kill him. It was not his fault. All of these "
 "people have been controlled by Gulder, except the orcs. He would have been a "
@@ -6474,23 +6474,23 @@ msgstr ""
 "貰う筈だったのですが...。"
 
 #. [message]: speaker=narrator
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:597
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:645
 msgid "You lost 100 gold!"
 msgstr "１００ゴールドの損出です。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:608
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:656
 msgid "Aargh! We were supposed to get the whole northlands back!"
 msgstr ""
 "あああっ...!　我々は、北の領地を全て、地元の仲間と奪い返す予定だったのに...。"
 
 #. [message]: speaker=unit
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:634
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:682
 msgid "Gulder! Gulder! Aiieee…!"
 msgstr "ガルダー、ガルダー様!　アレー...!"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:678
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:726
 msgid ""
 "Very well, let us enter quickly. Gulder will probably be waiting for us. The "
 "rest of our soldiers here will be enough to battle with these people who are "
@@ -6501,7 +6501,7 @@ msgstr ""
 "分守れるでしょう。"
 
 #. [message]: id=Eameral
-#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:684
+#: Fate_of_a_Princess/scenarios/24_Striking_Back.cfg:732
 msgid ""
 "Very well, let us enter quickly. Gulder will probably be waiting for us. The "
 "rest of our soldiers here will be enough to battle with these people and "
@@ -7916,12 +7916,12 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Fate_of_a_Princess/units/Vanguard.cfg:144
+#: Fate_of_a_Princess/units/Vanguard.cfg:96
 msgid "female^Vanguard"
 msgstr "ヴァンガード"
 
 #. [female]
-#: Fate_of_a_Princess/units/Vanguard.cfg:148
+#: Fate_of_a_Princess/units/Vanguard.cfg:100
 msgid ""
 "An experienced forester, the Vanguard is used to penetrating hostile "
 "territory ahead of her army’s main force. They travel light, supporting "
@@ -7962,22 +7962,32 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Amulet, race=mechanical
-#: Fate_of_a_Princess/units/dummies/Amulet.cfg:4
+#: Fate_of_a_Princess/units/dummies/Dummies.cfg:4
 msgid "Amulet"
 msgstr "護符"
 
 #. [unit_type]: id=Amulet, race=mechanical
-#: Fate_of_a_Princess/units/dummies/Amulet.cfg:18
+#: Fate_of_a_Princess/units/dummies/Dummies.cfg:18
 msgid "dummy unit^Amulet"
 msgstr "護符"
 
+#. [unit_type]: id=Tomahawk, race=mechanical
+#: Fate_of_a_Princess/units/dummies/Dummies.cfg:25
+msgid "Tomahawk"
+msgstr ""
+
+#. [unit_type]: id=Tomahawk, race=mechanical
+#: Fate_of_a_Princess/units/dummies/Dummies.cfg:38
+msgid "dummy unit^Projectile"
+msgstr "Projectile"
+
 #. [unit_type]: id=Flying Queen, race=gryphon
-#: Fate_of_a_Princess/units/dummies/Flying_Queen.cfg:4
+#: Fate_of_a_Princess/units/dummies/Dummies.cfg:45
 msgid "Flying Queen"
 msgstr ""
 
 #. [unit_type]: id=Flying Queen, race=gryphon
-#: Fate_of_a_Princess/units/dummies/Flying_Queen.cfg:20
+#: Fate_of_a_Princess/units/dummies/Dummies.cfg:61
 msgid "dummy_unit^Flying Queen"
 msgstr "Flying Queen"
 
@@ -7996,16 +8006,6 @@ msgid ""
 "dwarf. He does joke that in poor weather he has sometimes had to teleport to "
 "the ground because Kulullu was struggling to carry him."
 msgstr ""
-
-#. [unit_type]: id=Tomahawk, race=mechanical
-#: Fate_of_a_Princess/units/dummies/Tomahawk.cfg:4
-msgid "Tomahawk"
-msgstr ""
-
-#. [unit_type]: id=Tomahawk, race=mechanical
-#: Fate_of_a_Princess/units/dummies/Tomahawk.cfg:17
-msgid "dummy unit^Projectile"
-msgstr "Projectile"
 
 #. [unit_type]: id=Foap Black Knight, race=human
 #: Fate_of_a_Princess/units/heroes/Black_Knight.cfg:5
