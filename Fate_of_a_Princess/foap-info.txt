@@ -1,17 +1,24 @@
 #textdomain wesnoth-Fate_of_a_Princess
 
 
----Informations---
+--- Informations ---
 
-The portrait of Drake Lord: (doofus-01)
+images:
 
-The base portrait of Háwclyn: galtrid.png (Legend of Wesmere)
+- the portrait of Drake Lord: (doofus-01)
 
-The portraits of Orcish Mages: (Son of the Black Eye)
+- the base portrait of Háwclyn: galtrid.png (Legend of Wesmere)
 
-The portrait of Ghidsaurs: kharakrahs.png (Sceptre_of_Fire)
+- the portraits of Orcish Mages: (Son of the Black Eye)
 
-The image of Alingwen/Ameck (baby) on the story-line: (Heir to the Thrown)
+- the portrait of Ghidsaurs: kharakrahs.png (Sceptre_of_Fire)
+
+- the story-image of Alingwen/Ameck (baby) on the story-line: (Heir to the Thrown)
+
+- the story-image of Two_Brothers_M2P1.png: (Tale of Two Brothers)
+
+- the base story-image of winter-2.png: (The South Guard)
+
 
 attack icons:
  
