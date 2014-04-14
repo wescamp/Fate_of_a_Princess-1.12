@@ -1,6 +1,6 @@
 local H = wesnoth.require "lua/helper.lua"
 local W = H.set_wml_action_metatable {}
-local MAIH = wesnoth.require("~add-ons/Northern_Forces/ai/micro_ai_helper_NF.lua")
+local MAIH = wesnoth.require("~add-ons/Fate_of_a_Princess/ai/micro_ai_helper_NF.lua")
 
 function wesnoth.wml_actions.micro_ai_NF(cfg)
     -- Set up the [micro_ai] tag functionality for each Micro AI
@@ -17,7 +17,7 @@ function wesnoth.wml_actions.micro_ai_NF(cfg)
 
     -- Set up the configuration tables for the different Micro AIs
     local required_keys, optional_keys, CA_parms = {}, {}, {}
-    local CA_path = '~add-ons/Northern_Forces/ai/'
+    local CA_path = '~add-ons/Fate_of_a_Princess/ai/'
 
     --------- Messenger Escort Micro AI ------------------------------------
     if (cfg.ai_type == 'messenger_escort') then

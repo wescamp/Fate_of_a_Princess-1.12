@@ -1,5 +1,5 @@
 local H = wesnoth.require "lua/helper.lua"
-local AH = wesnoth.require "~add-ons/Northern_Forces/ai/ai_helper_NF.lua"
+local AH = wesnoth.require "~add-ons/Fate_of_a_Princess/ai/ai_helper_NF.lua"
 
 local ca_messenger_move = {}
 
